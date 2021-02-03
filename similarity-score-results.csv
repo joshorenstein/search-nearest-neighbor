@@ -1,0 +1,491 @@
+name,team,sim_pitcher_1,sim_score_1,sim_pitcher_2,sim_score_2,sim_pitcher_3,sim_score_3,fb_pct,fbv,sl_pct,slv,ct_pct,ctv,cb_pct,cbv,ch_pct,chv,sf_pct,sfv,xx%,X1,X2,X3,row_num
+Brusdar Graterol,Dodgers,Josh Hader,950,Gregory Soto,942,Richard Rodriguez,938,0.71,99.3,0.29,89.1,0,0,0,0,0,0,0,0,0,137,21,276,1
+Jacob deGrom,Mets,Dylan Cease,949,Jon Gray,933,Nate Pearson,928,0.45,98.6,0.36,92.5,0,0,0.03,84,0.17,91.5,0,0,0,16,188,51,2
+Javier Guerra,Padres,Codi Heuer,977,Trevor Rosenthal,971,Jose Cisnero,964,0.68,98.5,0.27,87.8,0,0,0,0,0.05,91.9,0,0,0,13,8,55,3
+Josh Staumont,Royals,Nick Anderson,940,Drew Pomeranz,937,Seth Elledge,929,0.73,98.1,0,0,0,0,0.28,82.2,0,0,0,0,0,94,131,251,4
+Dustin May,Dodgers,Lou Trivino,968,Tyler Chatwood,947,Colin Rea,918,0.57,98.1,0,0,0.25,93.6,0.13,86.8,0.05,90.8,0,0,0,81,167,275,5
+Miguel Castro,- - -,Trevor May,982,Reynaldo Lopez,956,JoJo Romero,956,0.51,98.1,0.31,86.8,0,0,0,0,0.18,92.4,0,0,0,50,171,106,6
+Aroldis Chapman,Yankees,Tanner Houck,886,Frankie Montas,867,Wilmer Font,842,0.77,98.1,0.21,85.1,0,0,0,0,0,0,0.02,90.3,0,344,68,116,7
+Trevor Rosenthal,- - -,Codi Heuer,975,Javier Guerra,971,Evan Phillips,956,0.71,98,0.21,87.6,0,0,0,0,0.08,87.8,0,0,0,13,3,140,8
+Sam Coonrod,Giants,Luis Garcia,944,Kendall Graveman,925,Brandon Bielak,915,0.59,98,0.14,88.9,0.06,93.4,0.02,82.6,0.19,88.9,0,0,0,194,121,257,9
+Edwin Diaz,Mets,Peter Fairbanks,977,Victor Gonzalez,972,Austin Brice,960,0.62,97.8,0.38,89.6,0,0,0,0,0.01,93.7,0,0,0,18,111,219,10
+Jonathan Hernandez,Rangers,Jorge Alcala,972,Kyle Cody,963,Trevor May,963,0.48,97.8,0.4,89.2,0,0,0,0,0.13,91,0,0,0,26,163,50,11
+Drew Rasmussen,Brewers,Enoli Paredes,949,Lance Lynn,948,Robert Gsellman,946,0.68,97.7,0.17,86.9,0,0,0.11,81.8,0.04,89.9,0,0,0,69,236,232,12
+Codi Heuer,White Sox,Jose Cisnero,983,Carlos Estevez,978,Javier Guerra,977,0.66,97.6,0.25,87.9,0,0,0,0,0.09,89.1,0,0,0,55,28,3,13
+Sixto Sanchez,Marlins,Taylor Clarke,924,Jesus Luzardo,896,Patrick Sandoval,889,0.48,97.6,0.21,89,0,0,0.05,84,0.27,89.1,0,0,0.01,154,80,289,14
+Alex Reyes,Cardinals,Liam Hendriks,923,Justin Dunn,920,Gerrit Cole,898,0.6,97.6,0.19,86.9,0,0,0.17,82,0.04,90.7,0,0,0.01,62,388,37,15
+Dylan Cease,White Sox,Jon Gray,968,Logan Allen,959,Kyle Wright,957,0.48,97.5,0.3,85.1,0,0,0.09,79.1,0.13,82.9,0,0,0,188,183,165,16
+Luis Castillo,Reds,Thomas Hatch,966,David Hale,954,Cole Sulser,950,0.52,97.5,0.18,86.8,0,0,0,0,0.3,88.3,0,0,0,86,291,210,17
+Peter Fairbanks,Rays,Edwin Diaz,977,Victor Gonzalez,959,Geoff Hartlieb,956,0.57,97.5,0.41,87.2,0,0,0,0,0.02,93.4,0,0,0,10,111,227,18
+Nathan Eovaldi,Red Sox,Dylan Covey,815,Casey Mize,805,Josh Lindblom,801,0.38,97.4,0.06,88.7,0.26,91.7,0.17,79.7,0,0,0.14,88,0,328,222,427,19
+Dan Altavilla,- - -,Amir Garrett,974,Jordan Romano,959,Taylor Rogers,945,0.47,97.3,0.53,90.1,0,0,0,0,0,0,0,0,0,128,41,136,20
+Gregory Soto,Tigers,Caleb Ferguson,988,Zack Britton,978,Brusdar Graterol,942,0.8,97.3,0.2,87.8,0,0,0,0,0,0,0,0,0,84,120,1,21
+Keynan Middleton,Angels,JoJo Romero,972,Dillon Tate,968,Trevor Rogers,967,0.59,97.1,0.22,87.4,0,0,0,0,0.19,88.3,0,0,0,106,151,229,22
+Dinelson Lamet,Padres,Giovanny Gallegos,965,Jake Newberry,958,Shaun Anderson,946,0.46,97.1,0.53,86.6,0,0,0,0,0,93.7,0,0,0,218,237,139,23
+Daniel Bard,Rockies,Hector Rondon,941,Jared Hughes,939,Aaron Slegers,929,0.56,97.1,0.31,87.7,0,0,0,0,0.13,89.8,0,0,0.02,73,378,389,24
+Joe Kelly,Dodgers,Pierce Johnson,935,Tyler Duffey,934,James Karinchak,863,0.37,97,0,0,0,0,0.63,87.1,0,0,0,0,0,52,299,77,25
+Jorge Alcala,Twins,Yency Almonte,972,Jonathan Hernandez,972,Kyle Cody,953,0.46,97,0.45,88.6,0,0,0,0,0.09,89.2,0,0,0,125,11,163,26
+Tyler Glasnow,Rays,Corey Knebel,973,Framber Valdez,958,Jorge Lopez,958,0.61,97,0,0,0,0,0.35,82.5,0.05,91.2,0,0,0,152,264,214,27
+Carlos Estevez,Rockies,Robert Stock,986,Jose Cisnero,985,Taylor Hearn,983,0.62,96.9,0.26,87,0,0,0,0,0.12,88.7,0,0,0,35,55,110,28
+Craig Kimbrel,Cubs,Nik Turley,945,James Karinchak,910,Nick Anderson,904,0.62,96.9,0,0,0,0,0.38,86,0,0,0,0,0.01,168,77,94,29
+Blake Treinen,Dodgers,Justin Wilson,833,Tanner Rainey,829,Yohan Ramirez,826,0.65,96.9,0.26,88.5,0.09,94.3,0,0,0,0,0,0,0.01,107,44,71,30
+Walker Buehler,Dodgers,Tyler Matzek,946,Craig Stammen,833,Zach Eflin,827,0.62,96.9,0.09,86.5,0.15,92.7,0.14,81.8,0,0,0,0,0,162,326,205,31
+Ryan Helsley,Cardinals,Ian Kennedy,939,Josh Tomlin,800,Tyler Chatwood,798,0.43,96.9,0,0,0.36,87.4,0.17,80.5,0.04,89.6,0,0,0.02,224,467,167,32
+Zack Wheeler,Phillies,Austin Voth,902,Nick Margevicius,807,Wilmer Font,803,0.66,96.9,0.16,89.8,0,0,0.1,80.1,0.05,90,0.03,90.3,0.01,349,430,116,33
+Luis Patino,Padres,John King,960,Brandon Woodruff,958,Rony Garcia,952,0.65,96.8,0.17,84.7,0,0,0,79,0.18,89.1,0,0,0,267,47,249,34
+Robert Stock,Red Sox,Carlos Estevez,986,Bryan Garcia,980,Codi Heuer,975,0.64,96.8,0.23,84.7,0,0,0,0,0.13,82.3,0,0,0,28,146,13,35
+Jonathan Loaisiga,Yankees,Jeff Hoffman,906,Archie Bradley,898,Robbie Erlin,897,0.67,96.7,0,0,0,0,0.18,84,0.15,88.8,0,0,0.01,145,173,449,36
+Gerrit Cole,Yankees,Matt Harvey,968,Mitch Keller,964,Anthony DeSclafani,956,0.53,96.7,0.24,88.8,0,0,0.17,83.4,0.06,88.4,0,0,0,185,198,114,37
+Jimmy Cordero,White Sox,Vince Velasquez,904,Sam Coonrod,884,Kendall Graveman,881,0.68,96.7,0.16,87.5,0.03,92.6,0.03,81.2,0.11,88.6,0,0,0.01,213,9,121,38
+Michael Lorenzen,Reds,Jonathan Holder,904,Max Scherzer,893,Brandon Bielak,885,0.41,96.7,0.17,85.1,0.18,92.7,0.07,82.7,0.18,86.7,0,0,0.01,333,130,257,39
+Julian Merryweather,Blue Jays,Tarik Skubal,977,Brandon Woodruff,962,Jason Adam,961,0.58,96.7,0.15,85.9,0,0,0.09,79.3,0.18,80.7,0,0,0,147,47,122,40
+Jordan Romano,Blue Jays,Diego Castillo,973,Amir Garrett,969,Dan Altavilla,959,0.4,96.6,0.6,89.2,0,0,0,0,0,0,0,0,0,60,128,20,41
+Adrian Morejon,Padres,Taijuan Walker,934,Franklyn Kilome,915,Jordan Weems,912,0.56,96.6,0.12,85.3,0,0,0.15,81,0,0,0.17,84.3,0,260,153,91,42
+Jeurys Familia,Mets,Anthony Bass,936,Ryne Stanek,852,Frankie Montas,806,0.6,96.6,0.29,89.6,0,0,0,0,0,0,0.11,91,0.02,127,64,68,43
+Tanner Rainey,Nationals,Yohan Ramirez,992,Jairo Diaz,981,Tanner Scott,908,0.61,96.6,0.39,87.2,0,0,0,0,0,0,0,0,0.01,71,100,48,44
+Devin Williams,Brewers,Phillips Valdez,953,Tony Watson,913,Pedro Baez,876,0.44,96.5,0.04,86.6,0,0,0,0,0.53,84.1,0,0,0,325,437,160,45
+Sandy Alcantara,Marlins,Josh James,978,J.B. Wendelken,975,Antonio Senzatela,973,0.6,96.5,0.24,87.2,0,0,0.07,81.4,0.1,90,0,0,0,54,141,161,46
+Brandon Woodruff,Brewers,Tarik Skubal,962,Julian Merryweather,962,Luis Patino,958,0.65,96.5,0.11,88.3,0,0,0.07,83.6,0.18,86.8,0,0,0,147,40,34,47
+Tanner Scott,Orioles,John Curtiss,967,Joey Gerber,964,Taylor Rogers,957,0.61,96.5,0.39,88.3,0,0,0,0,0,0,0,0,0,189,248,136,48
+Daniel Hudson,Nationals,Enoli Paredes,945,Spencer Turnbull,941,Caleb Baragar,940,0.76,96.5,0.17,86.1,0,0,0.02,74.7,0.06,88.2,0,0,0,69,176,203,49
+Trevor May,Twins,Miguel Castro,982,Cal Quantrill,970,Kyle Cody,968,0.52,96.4,0.33,85.3,0,0,0,0,0.16,87.8,0,0,0,6,113,163,50
+Nate Pearson,Blue Jays,Anthony DeSclafani,971,Dylan Cease,956,Kyle Zimmer,953,0.51,96.4,0.36,84.6,0,0,0.07,77.4,0.07,87.7,0,0,0,114,16,177,51
+Pierce Johnson,Padres,Tyler Duffey,964,Joe Kelly,935,James Karinchak,903,0.46,96.4,0,0,0,0,0.54,84.8,0,0,0,0,0,299,25,77,52
+Nick Nelson,Yankees,Julian Merryweather,957,John Means,950,Jose Urquidy,949,0.57,96.4,0.12,84.7,0,0,0.06,79.9,0.25,88.6,0,0,0,40,207,263,53
+Josh James,Astros,Sandy Alcantara,978,Spencer Howard,970,Antonio Senzatela,966,0.58,96.3,0.24,85.8,0,0,0.05,82.2,0.14,88.9,0,0,0,46,179,161,54
+Jose Cisnero,Tigers,Kyle Funkhouser,986,Carlos Estevez,985,Jose Urena,983,0.63,96.3,0.28,86.8,0,0,0,0,0.09,90.8,0,0,0,92,28,88,55
+Genesis Cabrera,Cardinals,Jorge Lopez,966,Jose Berrios,959,Framber Valdez,958,0.56,96.2,0,0,0,0,0.31,81.4,0.13,88.4,0,0,0,214,166,264,56
+Ryan Brasier,Red Sox,Jake Diekman,960,Nate Jones,931,Taylor Widener,929,0.62,96.2,0.33,86.2,0,0,0,0,0.05,87.5,0,0,0.01,99,66,142,57
+Carlos Hernandez,Royals,Julio Urias,967,Adbert Alzolay,949,German Marquez,933,0.51,96.2,0.06,85.1,0,0,0.28,82.7,0.15,85.9,0,0,0,169,133,72,58
+Raisel Iglesias,Reds,Jarlin Garcia,971,Jeffrey Springs,946,John Schreiber,913,0.46,96.2,0.33,84.8,0,0,0,0,0.21,89.1,0,0,0.01,211,335,442,59
+Diego Castillo,Rays,Jordan Romano,973,Amir Garrett,940,Sam Selman,939,0.35,96.2,0.65,86.3,0,0,0,0,0,0,0,0,0,41,128,391,60
+Ty Buttrey,Angels,Jeff Hoffman,894,Jonathan Loaisiga,890,Robbie Erlin,878,0.58,96.1,0,0,0,0,0.22,82.2,0.2,86.3,0,0,0.02,145,36,449,61
+Liam Hendriks,Athletics,Alex Reyes,923,Enoli Paredes,905,Lance Lynn,902,0.7,96.1,0.22,86.8,0,0,0.07,84,0.01,90.5,0,0,0.01,15,69,236,62
+Corbin Burnes,Brewers,Aaron Civale,913,Zac Gallen,908,Kyle Hart,901,0.37,96,0.13,86.6,0.31,93,0.09,81,0.11,88.9,0,0,0,362,253,455,63
+Ryne Stanek,Marlins,Jeurys Familia,852,Rafael Dolis,849,Anthony Bass,848,0.44,96,0.39,88.6,0,0,0,0,0,0,0.18,88.5,0.01,43,129,127,64
+Tyler Kinley,Rockies,Robert Stephenson,966,Shaun Anderson,962,Sam Howard,944,0.34,95.9,0.6,89.5,0,0,0,0,0.07,88.2,0,0,0,126,139,342,65
+Nate Jones,Reds,Jake Diekman,968,Ryan Brasier,931,Huascar Ynoa,929,0.54,95.9,0.46,88.1,0,0,0,0,0,89,0,0,0.01,99,57,119,66
+Rico Garcia,Giants,Chris Paddack,966,Pablo Lopez,953,Luke Weaver,934,0.56,95.9,0,0,0.01,91,0.12,83.5,0.32,85.8,0,0,0,174,216,184,67
+Frankie Montas,Athletics,Rafael Dolis,942,Yonny Chirinos,888,Tanner Houck,881,0.62,95.8,0.25,86.2,0,0,0,0,0,0,0.13,86.5,0,129,242,344,68
+Enoli Paredes,Astros,Lance Lynn,970,Robert Gsellman,958,Spencer Turnbull,957,0.68,95.7,0.25,85.7,0,0,0.04,80.9,0.02,89.6,0,0,0,236,232,176,69
+Tejay Antone,Reds,Chad Kuhl,973,Lucas Sims,958,Clayton Kershaw,956,0.41,95.7,0.4,83.5,0,0,0.17,80.1,0.03,87,0,0,0,201,197,369,70
+Yohan Ramirez,Mariners,Tanner Rainey,992,Jairo Diaz,991,Tanner Scott,907,0.6,95.7,0.4,82,0,0,0,0,0,0,0,0,0.01,44,100,48,71
+German Marquez,Rockies,Nick Pivetta,969,Austin Gomber,967,Max Fried,965,0.52,95.7,0.17,88,0,0,0.25,85.5,0.06,86.9,0,0,0,288,305,269,72
+Hector Rondon,Diamondbacks,Kevin Ginkel,986,Aaron Slegers,946,Daniel Bard,941,0.6,95.6,0.37,85.4,0,0,0,0,0.04,88.4,0,0,0.02,76,389,24,73
+Matt Barnes,Red Sox,Grant Dayton,923,Tyler Glasnow,889,Framber Valdez,886,0.54,95.6,0,0,0,0,0.43,84.6,0.03,88.5,0,0,0.01,410,27,264,74
+A.J. Minter,Braves,Daniel Bard,895,Raisel Iglesias,892,Huascar Ynoa,886,0.39,95.6,0.43,88,0,0,0,0,0.19,85.4,0,0,0.02,24,59,119,75
+Kevin Ginkel,Diamondbacks,Hector Rondon,986,Aaron Slegers,932,Daniel Bard,921,0.6,95.6,0.39,84.1,0,0,0,0,0.01,85,0,0,0.02,73,389,24,76
+James Karinchak,Indians,Nik Turley,960,Craig Kimbrel,910,Pierce Johnson,903,0.5,95.5,0,0,0,0,0.5,83.2,0,0,0,0,0.01,168,29,52,77
+Trevor Gott,Giants,Sonny Gray,935,Dakota Hudson,931,Julio Urias,930,0.64,95.5,0.08,90.6,0,0,0.25,82.5,0.03,89.8,0,0,0,271,280,169,78
+Yu Darvish,Cubs,Josh Lindblom,855,Jake Odorizzi,800,Jeff Samardzija,791,0.25,95.5,0.15,82.1,0.4,86.8,0.12,77.5,0.04,89.9,0.04,90.7,0,427,272,407,79
+Jesus Luzardo,Athletics,Steven Brault,963,Brad Boxberger,962,David Peterson,952,0.53,95.5,0.22,84.1,0,0,0,81.7,0.24,87.4,0,0,0,338,303,341,80
+Lou Trivino,Athletics,Dustin May,968,Tyler Chatwood,946,James Paxton,934,0.59,95.5,0,0,0.23,90.6,0.11,78.4,0.07,86.9,0,0,0,5,167,331,81
+Hansel Robles,Angels,Chasen Shreve,937,Yonny Chirinos,874,Matt Shoemaker,847,0.52,95.5,0.12,88.9,0,0,0,0,0,0,0.36,88,0,366,242,345,82
+Rafael Montero,Rangers,Mychal Givens,951,Joely Rodriguez,945,Michael King,932,0.72,95.5,0.07,85.8,0,0,0,0,0.21,89.1,0,0,0,132,135,265,83
+Caleb Ferguson,Dodgers,Zack Britton,994,Gregory Soto,988,Richard Rodriguez,946,0.8,95.5,0.2,86.6,0,0,0,0,0,0,0,0,0,120,21,276,84
+Chad Green,Yankees,Craig Kimbrel,863,Nik Turley,821,Josh Staumont,805,0.75,95.5,0,0,0,0,0.25,84.5,0,0,0,0,0.02,29,168,4,85
+Thomas Hatch,Blue Jays,Cole Sulser,974,Luis Castillo,966,Reynaldo Lopez,962,0.54,95.5,0.21,88.2,0,0,0,0,0.25,85.8,0,0,0,210,17,171,86
+Yoan Lopez,Diamondbacks,Keury Mella,916,Oliver Perez,888,Taylor Williams,888,0.55,95.5,0.46,85.8,0,0,0,0,0,0,0,0,0.03,96,433,103,87
+Jose Urena,Marlins,Kyle Funkhouser,1000,Joe Jimenez,992,Jose Cisnero,983,0.61,95.5,0.32,85.7,0,0,0,0,0.07,90.6,0,0,0,92,164,55,88
+Ian Gibaut,Rangers,Tyler Alexander,892,Cody Reed,891,Adam Ottavino,890,0.54,95.3,0.29,86.6,0.01,90.5,0,0,0.16,85.5,0,0,0,409,148,235,89
+Connor Brogdon,Phillies,Dylan Floro,845,Jalen Beeks,794,Jacob Webb,765,0.51,95.3,0,0,0.14,88.8,0,0,0.35,84,0,0,0.02,239,261,225,90
+Jordan Weems,Athletics,J.A. Happ,934,Taijuan Walker,917,Adrian Morejon,912,0.62,95.3,0.18,85.9,0,0,0.01,82,0,0,0.19,86,0,401,260,42,91
+Kyle Funkhouser,Tigers,Jose Urena,1000,Joe Jimenez,996,Jose Cisnero,986,0.62,95.3,0.31,86.4,0,0,0,0,0.07,89.3,0,0,0,88,164,55,92
+Jacob Barnes,Angels,Ryan Tepera,945,Yusei Kikuchi,895,Dylan Covey,819,0.47,95.3,0.01,85.3,0.52,89.6,0,0,0,0,0.01,88,0,196,105,328,93
+Nick Anderson,Rays,Seth Elledge,987,Josh Staumont,940,Craig Kimbrel,904,0.65,95.2,0,0,0,0,0.35,84.3,0,0,0,0,0,251,4,29,94
+Garrett Richards,Padres,Heath Hembree,976,Dellin Betances,963,Brett Martin,963,0.55,95.2,0.38,88.5,0,0,0.08,80.1,0,0,0,0,0,195,226,187,95
+Keury Mella,Diamondbacks,Yoan Lopez,916,Stephen Tarpley,898,Oliver Perez,870,0.68,95.2,0.32,82.6,0,0,0,0,0,0,0,0,0.03,87,396,433,96
+Mike Clevinger,- - -,Joe Musgrove,944,Max Scherzer,922,Johan Oviedo,908,0.4,95.2,0.32,81.7,0.07,88,0.13,78.7,0.08,87.3,0,0,0,308,130,117,97
+Tony Gonsolin,Dodgers,Matt Shoemaker,956,Shun Yamaguchi,886,Taijuan Walker,880,0.48,95.1,0.17,87.5,0,0,0.06,81.9,0,0,0.3,85.2,0,345,402,260,98
+Jake Diekman,Athletics,Nate Jones,968,Ryan Brasier,960,Kevin Ginkel,907,0.59,95.1,0.4,82.6,0,0,0,0,0,89,0,0,0.01,66,57,76,99
+Jairo Diaz,Rockies,Yohan Ramirez,991,Tanner Rainey,981,John Curtiss,907,0.58,95.1,0.42,85.3,0,0,0,0,0,0,0,0,0.01,71,44,189,100
+Kevin Gausman,Giants,Hansel Robles,811,Yonny Chirinos,807,Chasen Shreve,787,0.51,95.1,0.07,81.9,0,0,0,0,0.14,84.3,0.29,84.2,0,82,242,366,101
+Blake Snell,Rays,John Gant,975,Sean Newcomb,971,Jose Urquidy,966,0.51,95.1,0.15,87.5,0,0,0.15,80.2,0.2,88,0,0,0,204,241,263,102
+Taylor Williams,- - -,Yoan Lopez,888,Jairo Diaz,874,Yohan Ramirez,864,0.45,95.1,0.55,85.9,0,0,0,0,0,0,0,0,0.02,87,100,71,103
+Kyle Finnegan,Nationals,Jeurys Familia,796,Anthony Bass,776,Stephen Tarpley,753,0.7,95.1,0.21,87.3,0,0,0,0,0,0,0.09,87,0.04,43,127,396,104
+Yusei Kikuchi,Mariners,Ryan Tepera,939,Jacob Barnes,895,Dylan Covey,895,0.38,95,0.16,83.4,0.4,92.1,0,0,0,0,0.06,86.9,0,196,93,328,105
+JoJo Romero,Phillies,Dillon Tate,996,Keynan Middleton,972,Trevor Rogers,971,0.57,95,0.27,84.1,0,0,0,0,0.17,85.8,0,0,0,151,22,229,106
+Justin Wilson,Mets,Marcus Walden,835,Blake Treinen,833,Aaron Loup,804,0.59,95,0.04,81.1,0.37,90.7,0,0,0,0,0,0,0.01,298,30,340,107
+Jesse Hahn,Royals,Caleb Thielbar,931,Brett Martin,874,Freddy Peralta,865,0.57,95,0.13,82,0,0,0.31,78,0,0,0,0,0,440,187,270,108
+Rowan Wick,Cubs,Drew Smyly,897,David Phelps,878,Tommy Hunter,842,0.52,95,0,0,0.14,91.9,0.34,76.8,0,0,0,0,0.01,208,181,297,109
+Taylor Hearn,Rangers,Carlos Estevez,983,Jose Cisnero,979,Dillon Tate,976,0.61,95,0.28,83.8,0,0,0,0,0.12,85,0,0,0,28,55,151,110
+Victor Gonzalez,Dodgers,Austin Brice,990,Edwin Diaz,972,Brad Keller,972,0.63,95,0.36,84.5,0,0,0,0,0.01,87.8,0,0,0,219,10,293,111
+Jake McGee,Dodgers,Zack Britton,891,Caleb Ferguson,891,Gregory Soto,888,0.97,95,0.03,82.5,0,0,0,0,0,0,0,0,0,120,84,21,112
+Cal Quantrill,- - -,Kyle Cody,982,Trevor May,970,Michael Pineda,966,0.54,94.9,0.35,86.2,0,0,0,0,0.11,85.6,0,0,0,163,50,336,113
+Anthony DeSclafani,Reds,Jonathan Brubaker,976,Kyle Zimmer,972,Nate Pearson,971,0.51,94.9,0.31,86.3,0,0,0.11,82.2,0.07,88.5,0,0,0,215,177,51,114
+Scott Barlow,Royals,Ryan Pressly,993,Phil Maton,935,Cameron Hill,925,0.37,94.9,0.41,83.5,0,0,0.22,78.1,0,0,0,0,0.01,134,233,321,115
+Wilmer Font,Blue Jays,Javy Guerra,966,J.A. Happ,897,Nick Margevicius,884,0.7,94.9,0.15,86.2,0,0,0.09,76.6,0,0,0.06,84.7,0,361,401,430,116
+Johan Oviedo,Cardinals,Zach Eflin,925,Mike Clevinger,908,Kyle Gibson,905,0.56,94.9,0.3,84.9,0,95,0.1,77.1,0.04,87.4,0,0,0,205,97,316,117
+Ryan Borucki,Blue Jays,Dylan Floro,894,Kolby Allard,847,Corey Oswalt,842,0.48,94.9,0,0,0.38,86.7,0,0,0.14,85.1,0,0,0,239,371,327,118
+Huascar Ynoa,Braves,Nate Jones,929,Jarlin Garcia,921,John Schreiber,914,0.44,94.9,0.47,86.1,0,0,0,0,0.09,86.6,0,0,0.01,66,211,442,119
+Zack Britton,Yankees,Caleb Ferguson,994,Gregory Soto,978,Richard Rodriguez,949,0.8,94.8,0.2,81.1,0,0,0,0,0,0,0,0,0,84,21,276,120
+Kendall Graveman,Mariners,Sam Coonrod,925,Luis Garcia,911,Zach Eflin,906,0.68,94.8,0.02,87.4,0.07,91.7,0.06,79.9,0.17,88.5,0,0,0,9,194,205,121
+Jason Adam,Cubs,Danny Duffy,973,Kyle Wright,966,Matt Harvey,965,0.54,94.8,0.19,82.7,0,0,0.12,79.6,0.15,89.8,0,0,0,324,165,185,122
+Dovydas Neverauskas,Pirates,Dean Kremer,949,Charlie Morton,926,Cody Ponce,925,0.46,94.8,0,0,0.2,89.6,0.34,82.2,0,91,0,0,0,273,255,252,123
+Wandy Peralta,Giants,Luis Perdomo,944,Pedro Baez,943,Justus Sheffield,904,0.36,94.8,0.33,87.6,0,0,0,0,0.31,87.6,0,0,0,193,160,352,124
+Yency Almonte,Rockies,Dennis Santana,979,Jaime Barria,977,Jorge Alcala,972,0.43,94.8,0.45,84.4,0,0,0,0,0.12,87.9,0,0,0,157,332,26,125
+Robert Stephenson,Reds,Tyler Kinley,966,Sam Howard,951,Shaun Anderson,928,0.3,94.8,0.66,83.6,0,0,0,0,0.04,86.4,0,0,0,65,342,139,126
+Anthony Bass,Blue Jays,Jeurys Familia,936,Ryne Stanek,848,Kwang-hyun Kim,818,0.54,94.7,0.39,85.9,0,0,0,0,0,0,0.07,86.4,0.02,43,64,435,127
+Amir Garrett,Reds,Dan Altavilla,974,Nick Goody,972,Jordan Romano,969,0.45,94.7,0.56,85.1,0,0,0,0,0,0,0,0,0,20,370,41,128
+Rafael Dolis,Blue Jays,Yonny Chirinos,952,Frankie Montas,942,Jordan Weems,857,0.61,94.7,0.2,84,0,0,0,0,0,0,0.19,86.6,0,242,68,91,129
+Max Scherzer,Nationals,Brandon Bielak,956,Luis Garcia,950,Humberto Castellanos,948,0.46,94.7,0.19,85.5,0.1,91.1,0.09,77.2,0.16,85,0,0,0,257,194,432,130
+Drew Pomeranz,Padres,Josh Staumont,937,Nick Anderson,888,Seth Elledge,887,0.8,94.7,0,0,0,0,0.2,84.2,0,0,0,0,0,4,94,251,131
+Mychal Givens,- - -,Michael King,973,Trevor Rogers,970,Bryan Garcia,967,0.65,94.7,0.16,85,0,0,0,0,0.19,82.8,0,0,0,265,229,146,132
+Adbert Alzolay,Cubs,Carlos Hernandez,949,Sonny Gray,946,Julio Urias,943,0.52,94.7,0.06,85.4,0,0,0.34,80.8,0.08,85.1,0,0,0,58,271,169,133
+Ryan Pressly,Astros,Scott Barlow,993,Phil Maton,933,Cameron Hill,927,0.37,94.7,0.42,88.9,0,0,0.21,81.3,0,0,0,0,0.01,115,233,321,134
+Joely Rodriguez,Rangers,Rafael Montero,945,Matt Foster,937,Cole Sulser,923,0.68,94.6,0.03,87.7,0,0,0,0,0.3,89.3,0,0,0,83,206,210,135
+Taylor Rogers,Twins,John Curtiss,990,Tanner Scott,957,Dan Altavilla,945,0.55,94.6,0.46,81.1,0,0,0,0,0,0,0,0,0,189,48,20,136
+Josh Hader,Brewers,Joey Gerber,982,Richard Rodriguez,975,Tanner Scott,953,0.68,94.6,0.32,80.3,0,0,0,0,0,0,0,0,0,248,276,48,137
+Duane Underwood Jr.,Cubs,Aaron Nola,978,Alex Wood,949,Jeff Hoffman,942,0.46,94.6,0,0,0,0,0.25,81.5,0.29,87.2,0,0,0.01,314,390,145,138
+Shaun Anderson,Giants,Jake Newberry,970,Tyler Kinley,962,Yency Almonte,959,0.4,94.6,0.53,88.3,0,0,0,0,0.07,87.8,0,0,0,237,65,125,139
+Evan Phillips,Orioles,Jose Cisnero,977,Joe Jimenez,977,Kyle Funkhouser,975,0.66,94.6,0.26,83.7,0,0,0,0,0.07,86,0,0,0,55,164,92,140
+J.B. Wendelken,Athletics,Antonio Senzatela,985,Sandy Alcantara,975,Robert Gsellman,968,0.58,94.5,0.26,85.3,0,0,0.08,81.1,0.07,86.6,0,0,0,161,46,232,141
+Taylor Widener,Diamondbacks,Ryan Brasier,929,Bryan Garcia,908,Michael King,906,0.65,94.5,0.21,85.9,0,0,0,0,0.14,86.3,0,0,0.01,57,146,265,142
+Emilio Pagan,Padres,Heath Hembree,957,Garrett Richards,953,Freddy Peralta,939,0.63,94.5,0.35,86.6,0,0,0.03,82.8,0,0,0,0,0,195,95,270,143
+Steven Matz,Mets,John Means,979,John Gant,967,Sean Newcomb,959,0.54,94.5,0.05,89.7,0,0,0.15,77.7,0.26,84.9,0,0,0,207,204,241,144
+Jeff Hoffman,Rockies,Duane Underwood Jr.,942,Aaron Nola,932,Alex Wood,920,0.55,94.5,0,0,0,0,0.18,77.8,0.27,85.4,0,0,0.01,138,314,390,145
+Bryan Garcia,Tigers,Michael King,981,Robert Stock,980,Taylor Hearn,974,0.64,94.5,0.22,87.4,0,0,0,0,0.14,86.7,0,0,0,265,35,110,146
+Tarik Skubal,Tigers,Julian Merryweather,977,Spencer Howard,974,Bryse Wilson,973,0.6,94.5,0.16,86.2,0,0,0.08,76.7,0.16,83.2,0,0,0,40,179,190,147
+Cody Reed,- - -,Adam Ottavino,971,Ian Gibaut,891,Asher Wojciechowski,861,0.49,94.5,0.48,87.3,0.01,90.3,0,0,0.03,88.7,0,0,0,235,89,398,148
+Yimi Garcia,Marlins,Aaron Loup,973,Jesse Chavez,956,T.J. Zeuch,941,0.49,94.5,0.12,82.4,0.29,87.9,0,0,0.1,87.8,0,0,0,340,394,329,149
+Felix Pena,Angels,Jose Berrios,987,Ljay Newsome,964,Genesis Cabrera,942,0.49,94.5,0,0,0,0,0.3,84.8,0.21,86.6,0,0,0,166,376,56,150
+Dillon Tate,Orioles,JoJo Romero,996,Taylor Hearn,976,Trevor Rogers,975,0.58,94.4,0.26,85.5,0,0,0,0,0.16,83.8,0,0,0,106,110,229,151
+Corey Knebel,Brewers,Tyler Glasnow,973,Framber Valdez,964,Jorge Lopez,963,0.63,94.4,0,0,0,0,0.34,78.2,0.03,87.7,0,0,0,27,264,214,152
+Franklyn Kilome,Mets,Adrian Morejon,915,Touki Toussaint,911,Taijuan Walker,868,0.54,94.4,0.04,86.8,0,0,0.28,81.7,0,0,0.14,85.3,0,42,199,260,153
+Taylor Clarke,Diamondbacks,Tyler Zuber,948,Sixto Sanchez,924,Ross Detwiler,910,0.46,94.4,0.27,86.4,0,0,0.11,79.9,0.17,88.9,0,0,0.01,175,14,374,154
+Luke Jackson,Braves,Mike Mayers,853,Matt Magill,842,Dellin Betances,828,0.36,94.4,0.43,86.5,0.01,90,0.2,83.4,0,0,0,0,0,170,358,226,155
+Colten Brewer,Red Sox,Brooks Raley,822,Aaron Civale,801,Zack Godley,784,0.02,94.4,0.2,89.1,0.45,93.7,0.33,80.9,0,85.5,0,0,0,424,362,443,156
+Dennis Santana,Dodgers,Yency Almonte,979,Jaime Barria,966,Shaun Anderson,950,0.39,94.4,0.46,84.4,0,0,0,0,0.15,86.6,0,0,0,125,332,139,157
+Burch Smith,Athletics,Adrian Houser,942,Keegan Akin,930,Brandon Woodruff,927,0.72,94.4,0.01,83,0,0,0.14,79.7,0.13,83,0,0,0,240,357,47,158
+Alex Colome,White Sox,Kenley Jansen,829,Josh Osich,795,Shawn Armstrong,782,0.28,94.4,0,0,0.72,89.4,0,0,0,0,0,0,0,313,310,221,159
+Pedro Baez,Dodgers,Wandy Peralta,943,Trevor Richards,933,David Hale,933,0.42,94.4,0.22,87.1,0,0,0,0,0.36,86.8,0,0,0,124,412,291,160
+Antonio Senzatela,Rockies,J.B. Wendelken,985,Sandy Alcantara,973,Matt Harvey,967,0.56,94.4,0.25,86.5,0,0,0.09,79.3,0.1,86.4,0,0,0,141,46,185,161
+Tyler Matzek,Braves,Walker Buehler,946,Freddy Peralta,842,Zach Eflin,835,0.62,94.4,0.19,83.3,0.09,89.9,0.11,79.7,0,0,0,0,0,31,270,205,162
+Kyle Cody,Rangers,Cal Quantrill,982,Michael Pineda,982,Trevor May,968,0.5,94.3,0.37,83.2,0,0,0,0,0.12,86.1,0,0,0,113,336,50,163
+Joe Jimenez,Tigers,Kyle Funkhouser,996,Jose Urena,992,Jose Cisnero,979,0.62,94.3,0.31,84,0,0,0,0,0.07,89,0,0,0,92,88,55,164
+Kyle Wright,Braves,Logan Allen,983,Derek Holland,975,Jon Gray,969,0.48,94.3,0.24,88.3,0,0,0.13,82.1,0.14,87.7,0,0,0,183,315,188,165
+Jose Berrios,Twins,Felix Pena,987,Genesis Cabrera,959,Ljay Newsome,957,0.52,94.3,0,0,0,0,0.3,83.4,0.19,84.7,0,0,0,150,56,376,166
+Tyler Chatwood,Cubs,Dustin May,947,Lou Trivino,946,Kolby Allard,941,0.51,94.3,0,0,0.3,90,0.14,80.4,0.05,85.5,0,0,0,5,81,371,167
+Nik Turley,Pirates,James Karinchak,960,Craig Kimbrel,945,Seth Elledge,881,0.56,94.2,0,0,0,0,0.45,76.6,0,0,0,0,0.01,77,29,251,168
+Julio Urias,Dodgers,Carlos Hernandez,967,Seth Lugo,951,Matt Strahm,951,0.56,94.2,0.06,86.4,0,0,0.25,80.5,0.13,85,0,0,0,58,244,282,169
+Mike Mayers,Angels,Luke Jackson,853,Marcus Walden,823,Tyler Matzek,810,0.34,94.2,0.4,85.3,0.24,90.3,0.03,77.2,0,0,0,0,0,155,298,162,170
+Reynaldo Lopez,White Sox,Justus Sheffield,967,JoJo Romero,965,Trevor May,962,0.51,94.2,0.28,82,0,0,0,0,0.21,83.6,0,0,0,352,106,50,171
+Shane Bieber,Indians,Joe Musgrove,924,Aaron Civale,920,Zac Gallen,918,0.38,94.2,0.12,84.5,0.16,89.4,0.26,83.7,0.09,88.8,0,0,0,308,362,253,172
+Archie Bradley,- - -,Ivan Nova,956,Jorge Lopez,947,Jose Quintana,940,0.66,94.2,0,0,0,0,0.23,80,0.12,86.2,0,0,0,323,214,380,173
+Chris Paddack,Padres,Pablo Lopez,979,Rico Garcia,966,Luke Weaver,955,0.58,94.2,0,0,0.04,88,0.07,76.9,0.31,83.9,0,0,0,216,67,184,174
+Tyler Zuber,Royals,Taylor Clarke,948,Ross Detwiler,919,Jimmy Herget,915,0.44,94.1,0.36,84,0,0,0.1,80.8,0.1,86.1,0,0,0.01,154,374,268,175
+Spencer Turnbull,Tigers,Robert Gsellman,981,Michael Fulmer,980,Bryse Wilson,976,0.66,94.1,0.21,85.4,0,0,0.04,79.5,0.09,87.2,0,0,0,232,262,190,176
+Kyle Zimmer,Royals,Jonathan Brubaker,993,Lucas Sims,989,Chad Kuhl,977,0.48,94.1,0.34,82.9,0,0,0.14,77.2,0.04,86.3,0,0,0,215,197,201,177
+Ian Anderson,Braves,Alex Cobb,969,Buck Farmer,964,Kris Bubic,956,0.49,94.1,0,0,0,0,0.21,80.2,0.31,87.4,0,0,0,304,258,375,178
+Spencer Howard,Phillies,Tarik Skubal,974,Chi Chi Gonzalez,971,Josh James,970,0.57,94.1,0.22,84.5,0,0,0.06,73.3,0.16,79.6,0,0,0,147,320,54,179
+Chris Martin,Braves,Dylan Covey,848,Yusei Kikuchi,846,Ryan Tepera,817,0.45,94.1,0.26,82.6,0.19,89.9,0,0,0,0,0.1,86.3,0.01,328,105,196,180
+David Phelps,- - -,Tommy Hunter,958,Drew Smyly,932,Rowan Wick,878,0.47,94.1,0,0,0.27,90.2,0.27,81.6,0,0,0,0,0,297,208,109,181
+Anthony Misiewicz,Mariners,Josh Osich,873,Shawn Armstrong,844,Brandon Workman,836,0.24,94.1,0,0,0.53,90.1,0.23,82,0,0,0,0,0.01,310,221,301,182
+Logan Allen,Indians,Kyle Wright,983,Derek Holland,975,Jon Gray,970,0.46,94.1,0.27,83.1,0,0,0.13,77.6,0.15,82.5,0,0,0,165,315,188,183
+Luke Weaver,Diamondbacks,Pablo Lopez,979,Carson Fulmer,969,Chris Paddack,955,0.54,94.1,0,0,0.12,88.4,0.07,79,0.27,84.8,0,0,0,216,306,174,184
+Matt Harvey,Royals,Triston McKenzie,985,Kyle Wright,969,Wes Benjamin,968,0.53,94.1,0.23,87,0,0,0.15,81.8,0.1,84.8,0,0,0,286,165,397,185
+Junior Guerra,Diamondbacks,Jeremy Jeffress,791,Nick Margevicius,768,Blake Parker,738,0.61,94,0,0,0,0,0.22,81.8,0,0,0.18,86.1,0.02,254,430,405,186
+Brett Martin,Rangers,Heath Hembree,972,Dellin Betances,965,Garrett Richards,963,0.53,94,0.33,87.5,0,0,0.14,83.3,0,0,0,0,0,195,226,95,187
+Jon Gray,Rockies,Caleb Smith,977,Trevor Williams,972,Logan Allen,970,0.49,94,0.29,86.3,0,0,0.08,77.8,0.13,86.5,0,0,0,337,387,183,188
+John Curtiss,Rays,Taylor Rogers,990,Tanner Scott,967,Joey Gerber,950,0.57,94,0.44,85.2,0,0,0,0,0,0,0,0,0,136,48,248,189
+Bryse Wilson,Braves,Michael Fulmer,981,Spencer Turnbull,976,Chi Chi Gonzalez,975,0.63,94,0.19,88.8,0,0,0.07,78.8,0.12,87.1,0,0,0,262,176,320,190
+Lucas Giolito,White Sox,Daniel Norris,964,Brad Boxberger,955,Jesus Luzardo,935,0.51,94,0.15,84.9,0,0,0.01,77.4,0.34,80.9,0,0,0,296,303,80,191
+Hector Neris,Phillies,Yoshihisa Hirano,872,Oliver Drake,804,Chasen Shreve,802,0.52,94,0,0,0,0,0,0,0,0,0.48,85.6,0.01,434,386,366,192
+Luis Perdomo,Padres,Justus Sheffield,964,Reynaldo Lopez,952,Randy Dobnak,950,0.43,94,0.35,86.4,0,0,0,0,0.23,88.5,0,0,0,352,171,367,193
+Luis Garcia,Astros,Brandon Bielak,951,Kyle Gibson,951,Max Scherzer,950,0.54,94,0.15,81.5,0.05,87.4,0.07,76.7,0.18,82.7,0,0,0,257,316,130,194
+Heath Hembree,- - -,Garrett Richards,976,Brett Martin,972,Emilio Pagan,957,0.58,94,0.33,87.7,0,0,0.1,81,0,0,0,0,0,95,187,143,195
+Ryan Tepera,Cubs,Jacob Barnes,945,Yusei Kikuchi,939,Dylan Covey,877,0.46,94,0.05,82.4,0.44,87.8,0,0,0,0,0.05,85.1,0,93,105,328,196
+Lucas Sims,Reds,Kyle Zimmer,989,Jonathan Brubaker,987,Chad Kuhl,980,0.48,94,0.34,82.9,0,0,0.16,80.5,0.02,87.7,0,0,0,177,215,201,197
+Mitch Keller,Pirates,Dakota Hudson,984,Max Fried,972,Conner Menez,972,0.56,94,0.22,87,0,0,0.2,78.2,0.03,89.1,0,0,0,280,269,359,198
+Touki Toussaint,Braves,Franklyn Kilome,911,Adrian Morejon,884,Taijuan Walker,873,0.41,94,0.1,85.5,0,0,0.29,75.8,0,0,0.2,85.3,0,153,42,260,199
+Cy Sneed,Astros,Ryan Helsley,797,Ian Kennedy,787,Josh A. Smith,786,0.36,93.9,0.14,82.7,0.33,92.1,0.15,79.9,0.02,81.4,0,0,0.03,32,224,418,200
+Chad Kuhl,Pirates,Lucas Sims,980,Kyle Zimmer,977,Jonathan Brubaker,974,0.44,93.9,0.35,87.8,0,0,0.17,81.3,0.04,88.2,0,0,0,197,177,215,201
+Tyler Mahle,Reds,J.A. Happ,919,Taijuan Walker,899,Jordan Weems,899,0.56,93.9,0.33,86.9,0,0,0,80,0,0,0.11,87.4,0,401,260,91,202
+Caleb Baragar,Giants,Lance Lynn,953,Drew Rasmussen,945,Daniel Hudson,940,0.75,93.9,0.15,84.1,0,0,0.1,79.3,0,87,0,0,0,236,12,49,203
+John Gant,Cardinals,John Means,991,Jose Urquidy,981,Blake Snell,975,0.52,93.9,0.12,85.4,0,0,0.13,76.3,0.23,81.8,0,0,0,207,263,102,204
+Zach Eflin,Phillies,Craig Stammen,945,Tanner Roark,932,Johan Oviedo,925,0.61,93.9,0.14,87.8,0.06,90.5,0.13,79,0.06,87.9,0,0,0,326,404,117,205
+Matt Foster,White Sox,David Hale,965,Cole Sulser,948,Trevor Richards,943,0.57,93.8,0.09,85.4,0,0,0,0,0.34,83.8,0,0,0,291,210,412,206
+John Means,Orioles,John Gant,991,Steven Matz,979,Jose Urquidy,971,0.52,93.8,0.1,86.5,0,0,0.13,79.1,0.25,85,0,0,0,204,144,263,207
+Drew Smyly,Giants,David Phelps,932,Rowan Wick,897,Tommy Hunter,891,0.45,93.8,0,0,0.18,89.4,0.37,80,0,0,0,0,0,181,109,297,208
+Lance McCullers Jr.,Astros,Jordan Montgomery,896,Charlie Morton,877,Merrill Kelly,870,0.43,93.8,0,0,0.02,91.4,0.38,83.4,0.18,86.4,0,0,0,302,255,348,209
+Cole Sulser,Orioles,Thomas Hatch,974,David Hale,963,Trevor Rogers,958,0.58,93.8,0.17,87.6,0,0,0,0,0.26,85.8,0,0,0,86,291,229,210
+Jarlin Garcia,Giants,Raisel Iglesias,971,John Schreiber,949,Jeffrey Springs,948,0.49,93.8,0.33,83.5,0,0,0,0,0.18,86,0,0,0.01,59,442,335,211
+Blake Taylor,Astros,Ryan Brasier,909,Taylor Widener,904,Jake Diekman,886,0.77,93.8,0.23,85.1,0,0,0,0,0.01,88.7,0,0,0.01,57,142,99,212
+Vince Velasquez,Phillies,Jimmy Cordero,904,Tanner Roark,895,Jonathan Holder,892,0.58,93.8,0.11,86.5,0.01,89.5,0.16,82.9,0.14,88.2,0,0,0.01,38,404,333,213
+Jorge Lopez,- - -,Framber Valdez,984,Jose Quintana,981,Genesis Cabrera,966,0.6,93.8,0,0,0,0,0.31,81.1,0.09,86.2,0,0,0,264,380,56,214
+Jonathan Brubaker,Pirates,Kyle Zimmer,993,Lucas Sims,987,Anthony DeSclafani,976,0.49,93.7,0.33,87.6,0,0,0.14,80.6,0.04,87.9,0,0,0,177,197,114,215
+Pablo Lopez,Marlins,Chris Paddack,979,Luke Weaver,979,Rico Garcia,953,0.55,93.7,0,0,0.08,90.5,0.07,78.8,0.3,87.2,0,0,0,174,184,67,216
+Robbie Ray,- - -,Jack Flaherty,980,Lucas Sims,974,Jonathan Brubaker,971,0.53,93.7,0.31,86.6,0,0,0.16,83.6,0,88,0,0,0,230,197,215,217
+Giovanny Gallegos,Cardinals,Paul Fry,975,Jake Newberry,975,Geoff Hartlieb,972,0.49,93.7,0.51,85.4,0,0,0,0,0,87,0,0,0,287,237,227,218
+Austin Brice,Red Sox,Victor Gonzalez,990,Brad Keller,984,Ryan Thompson,975,0.62,93.7,0.38,81.8,0,0,0,0,0.01,88,0,0,0,111,293,382,219
+Anthony Kay,Blue Jays,Jordan Montgomery,884,James Paxton,876,Carson Fulmer,871,0.56,93.7,0,0,0.02,86.9,0.23,78,0.18,86.3,0,0,0.01,302,331,306,220
+Shawn Armstrong,Orioles,Josh Osich,963,Kyle Ryan,916,Tommy Hunter,914,0.43,93.7,0,0,0.46,88.7,0.11,82,0,0,0,0,0,310,471,297,221
+Casey Mize,Tigers,Mike Fiers,933,Nathan Eovaldi,805,Dylan Covey,762,0.49,93.7,0,0,0.23,89.2,0.1,80.9,0,0,0.18,86.1,0,469,19,328,222
+Luis Cessa,Yankees,Adam Morgan,953,Jacob deGrom,884,Tejay Antone,872,0.31,93.7,0.54,83.8,0,0,0.02,80.4,0.13,87.5,0,0,0,372,2,70,223
+Ian Kennedy,Royals,Ryan Helsley,939,Tyler Chatwood,807,Kolby Allard,803,0.5,93.6,0,0,0.32,89.9,0.11,80.6,0.07,86.7,0,0,0.02,32,167,371,224
+Jacob Webb,Braves,Nick Wittgren,933,Noe Ramirez,886,Jeffrey Springs,884,0.52,93.6,0.15,80.3,0,0,0,0,0.33,82.5,0,0,0.02,277,459,335,225
+Dellin Betances,Mets,Brett Martin,965,Garrett Richards,963,Will Smith,963,0.49,93.6,0.4,82.7,0,0,0.11,86.1,0,0,0,0,0,187,95,300,226
+Geoff Hartlieb,Pirates,Paul Fry,996,Cody Stashak,974,Giovanny Gallegos,972,0.54,93.6,0.46,82.8,0,0,0,0,0.01,88,0,0,0,287,355,218,227
+Michael Wacha,Mets,Tyler Anderson,939,Martin Perez,927,Corey Oswalt,914,0.43,93.6,0,0,0.27,88.9,0.01,75.3,0.29,86.9,0,0,0,420,347,327,228
+Trevor Rogers,Marlins,Dillon Tate,975,Andrew Heaney,975,JoJo Romero,971,0.6,93.6,0.21,81,0,0,0,0,0.19,84.4,0,0,0,151,373,106,229
+Jack Flaherty,Cardinals,Robbie Ray,980,Robert Dugger,978,Conner Menez,972,0.56,93.6,0.29,84.5,0,0,0.14,77.4,0.02,85.8,0,0,0,217,350,359,230
+Carlos Carrasco,Indians,Johnny Cueto,934,Kyle Gibson,926,Brett Anderson,915,0.39,93.6,0.23,86.4,0,90,0.11,83.7,0.27,87.7,0,0,0,385,316,441,231
+Robert Gsellman,Mets,Michael Fulmer,982,Spencer Turnbull,981,Bryse Wilson,974,0.64,93.6,0.22,89.4,0,0,0.07,79.4,0.07,85.9,0,0,0,262,176,190,232
+Phil Maton,Indians,Cameron Hill,974,Scott Barlow,935,Ryan Pressly,933,0.48,93.6,0.32,85.4,0,0,0.2,76.7,0,0,0,0,0.01,321,115,134,233
+Trevor Bauer,Reds,Jordan Yamamoto,944,Eric Lauer,940,Adam Plutko,919,0.48,93.5,0.16,80.7,0.2,85.1,0.16,79.7,0,84.3,0,0,0,439,368,392,234
+Adam Ottavino,Yankees,Cody Reed,971,Ian Gibaut,890,Asher Wojciechowski,886,0.45,93.5,0.46,80.9,0.05,86.3,0,0,0.04,87.9,0,0,0,148,89,398,235
+Lance Lynn,Rangers,Enoli Paredes,970,Robert Gsellman,963,Caleb Baragar,953,0.68,93.5,0.23,89.3,0,0,0.08,83.5,0.01,83.1,0,0,0,69,232,203,236
+Jake Newberry,Royals,Giovanny Gallegos,975,Shaun Anderson,970,Jakob Junis,966,0.45,93.5,0.51,83.3,0,0,0,0,0.04,86.7,0,0,0,218,139,395,237
+Erick Fedde,Nationals,Shane Greene,903,T.J. Zeuch,903,Richard Bleier,890,0.56,93.5,0.18,79.5,0.17,88.8,0,0,0.1,86.8,0,0,0.01,343,329,458,238
+Dylan Floro,Dodgers,Ryan Borucki,894,Connor Brogdon,845,Michael Wacha,827,0.47,93.4,0,0,0.32,88,0,0,0.21,86.2,0,0,0.01,118,90,228,239
+Adrian Houser,Brewers,Keegan Akin,968,Bryse Wilson,964,Tarik Skubal,962,0.64,93.4,0.12,85.7,0,0,0.12,80.5,0.12,85,0,0,0,357,190,147,240
+Sean Newcomb,Braves,Jose Urquidy,979,John Gant,975,Blake Snell,971,0.54,93.4,0.1,79.7,0,0,0.16,76.8,0.2,87.1,0,0,0,263,204,102,241
+Yonny Chirinos,Rays,Rafael Dolis,952,Frankie Montas,888,Hansel Robles,874,0.61,93.4,0.16,88.1,0,0,0,0,0,0,0.24,85.1,0,129,68,82,242
+A.J. Cole,Blue Jays,Carlos Martinez,860,Jace Fry,815,Michael Lorenzen,815,0.35,93.4,0.48,83.7,0.07,89.3,0.02,77.9,0.08,86.3,0,0,0.02,284,438,39,243
+Seth Lugo,Mets,Matt Strahm,998,Humberto Mejia,984,Triston McKenzie,980,0.55,93.4,0.15,87.7,0,0,0.19,78.5,0.1,87.3,0,0,0,282,292,286,244
+Walker Lockett,- - -,Alex Young,972,Chase Anderson,959,Merrill Kelly,948,0.35,93.4,0,0,0.2,90.2,0.22,80.9,0.22,87.1,0,0,0,399,307,348,245
+Riley Smith,Diamondbacks,Dakota Hudson,981,Mitch Keller,965,Jack Flaherty,956,0.62,93.4,0.2,83.3,0,0,0.16,80.7,0.02,86.5,0,0,0,280,198,230,246
+Brady Singer,Royals,Brad Keller,992,Elieser Hernandez,981,Cody Stashak,978,0.58,93.4,0.37,83.1,0,0,0,0,0.05,87.8,0,0,0,293,381,355,247
+Joey Gerber,Mariners,Josh Hader,982,Tanner Scott,964,Richard Rodriguez,959,0.65,93.4,0.35,83.8,0,0,0,0,0,0,0,0,0,137,48,276,248
+Rony Garcia,Tigers,Michael Fulmer,980,Spencer Turnbull,974,Bryse Wilson,973,0.63,93.3,0.22,86.1,0,0,0.02,81.6,0.13,88,0,0,0,262,176,190,249
+Travis Lakins,Orioles,Cody Ponce,894,Jon Lester,890,Tyler Chatwood,882,0.33,93.3,0,0,0.42,90.8,0.22,80.6,0.03,87.5,0,0,0,252,454,167,250
+Seth Elledge,Cardinals,Nick Anderson,987,Josh Staumont,929,Craig Kimbrel,898,0.65,93.3,0,0,0,0,0.35,83.2,0,0,0,0,0,94,4,29,251
+Cody Ponce,Pirates,Merrill Kelly,957,Dean Kremer,949,Colin Rea,944,0.44,93.3,0,0,0.24,89.3,0.24,78.4,0.08,84.5,0,0,0,348,273,275,252
+Zac Gallen,Diamondbacks,Yusmeiro Petit,922,Brett Anderson,922,Brandon Bielak,919,0.39,93.3,0.05,83.4,0.2,88.1,0.17,81.3,0.19,84.9,0,0,0,468,441,257,253
+Jeremy Jeffress,Cubs,Blake Parker,866,Junior Guerra,791,Nick Tropeano,780,0.42,93.3,0,0,0,0,0.25,80.6,0,0,0.34,88.8,0.01,405,186,393,254
+Charlie Morton,Rays,Dean Kremer,940,Daniel Ponce de Leon,933,Dovydas Neverauskas,926,0.56,93.3,0,0,0.09,85,0.33,78.2,0.02,86.1,0,0,0,273,259,123,255
+Chris Stratton,Pirates,Kyle Wright,968,Logan Allen,966,Wes Benjamin,965,0.46,93.3,0.27,86.8,0,0,0.17,80.1,0.1,86.4,0,0,0,165,183,397,256
+Brandon Bielak,Astros,Max Scherzer,956,Daniel Mengden,956,Humberto Castellanos,952,0.5,93.3,0.1,83.2,0.14,88.8,0.08,79.7,0.17,86.4,0,0,0,130,426,432,257
+Buck Farmer,Tigers,Kris Bubic,976,Alex Cobb,975,Ian Anderson,964,0.53,93.3,0,0,0,0,0.15,81.8,0.33,87.4,0,0,0,375,304,178,258
+Daniel Ponce de Leon,Cardinals,Dean Kremer,939,James Paxton,936,Colin Rea,936,0.61,93.2,0,0,0.13,88,0.22,77.7,0.04,86.2,0,0,0,273,331,275,259
+Taijuan Walker,- - -,Adrian Morejon,934,Jordan Weems,917,Tyler Mahle,899,0.5,93.2,0.22,85.2,0,0,0.1,74.6,0,0,0.18,89,0,42,91,202,260
+Jalen Beeks,Rays,Zach Davies,858,Tyler Anderson,852,Michael Wacha,829,0.42,93.1,0,0,0.14,86.5,0,0,0.44,88,0,0,0,461,420,228,261
+Michael Fulmer,Tigers,Dane Dunning,983,Robert Gsellman,982,Bryse Wilson,981,0.62,93.1,0.23,87.6,0,0,0.05,77.9,0.1,86.8,0,0,0,353,232,190,262
+Jose Urquidy,Astros,John Gant,981,Sean Newcomb,979,John Means,971,0.55,93.1,0.13,79.4,0,0,0.12,76.9,0.21,84.3,0,0,0,204,241,207,263
+Framber Valdez,Astros,Jorge Lopez,984,Jose Quintana,978,Corey Knebel,964,0.58,93.1,0,0,0,0,0.34,80.6,0.08,88.8,0,0,0,214,380,152,264
+Michael King,Yankees,Bryan Garcia,981,Mychal Givens,973,Trevor Rogers,966,0.66,93.1,0.19,80.9,0,0,0,0,0.15,85,0,0,0,146,132,229,265
+Scott Alexander,Dodgers,Tim Hill,893,Keury Mella,862,Tanner Rainey,823,0.83,93.1,0.17,88.1,0,0,0,0,0,0,0,0,0.02,406,96,44,266
+John King,Rangers,Rony Garcia,971,Luis Patino,960,Spencer Howard,958,0.63,93.1,0.18,82,0,0,0.01,77.5,0.17,78.5,0,0,0,249,34,179,267
+Jimmy Herget,Rangers,Ross Detwiler,944,Tyler Zuber,915,Patrick Corbin,900,0.54,93.1,0.41,81.7,0,0,0.01,69.5,0.03,85.2,0,0,0.01,374,175,421,268
+Max Fried,Braves,Nick Pivetta,983,Austin Gomber,981,Mitch Keller,972,0.52,93,0.21,84.1,0,0,0.23,74.4,0.05,83.2,0,0,0,288,305,198,269
+Freddy Peralta,Brewers,Heath Hembree,946,Emilio Pagan,939,Brett Martin,921,0.66,93,0.24,79.6,0,0,0.1,75.6,0,0,0,0,0,195,143,187,270
+Sonny Gray,Reds,Austin Gomber,965,German Marquez,962,Nick Pivetta,961,0.54,93,0.15,83.1,0,0,0.29,80.8,0.03,89.8,0,0,0,305,72,288,271
+Jake Odorizzi,Twins,Josh Lindblom,893,Jeff Samardzija,847,Masahiro Tanaka,802,0.42,93,0.19,84.4,0.1,88.7,0.05,75,0.19,84.8,0.04,85.3,0,427,407,330,272
+Dean Kremer,Orioles,Cody Ponce,949,Dovydas Neverauskas,949,Charlie Morton,940,0.51,93,0,0,0.19,87,0.27,75.6,0.03,85.6,0,0,0,252,123,255,273
+Greg Holland,Royals,Tyler Zuber,910,Madison Bumgarner,903,Clayton Kershaw,887,0.37,93,0.51,85.9,0,0,0.12,78.6,0,84.5,0,0,0.01,175,464,369,274
+Colin Rea,Cubs,James Paxton,968,Cody Ponce,944,Merrill Kelly,943,0.52,93,0,0,0.18,87.2,0.19,80.5,0.11,85.4,0,0,0,331,252,348,275
+Richard Rodriguez,Pirates,Josh Hader,975,Joey Gerber,959,Zack Britton,949,0.72,93,0.28,81.3,0,0,0,0,0,0,0,0,0,137,248,120,276
+Nick Wittgren,Indians,Jacob Webb,933,Jared Hughes,925,Daniel Bard,898,0.61,92.9,0.15,85.4,0,0,0,0,0.24,86.1,0,0,0.02,225,378,24,277
+Evan Marshall,White Sox,Ian Anderson,872,Alex Cobb,870,Ljay Newsome,861,0.29,92.9,0,0,0,0,0.32,82.3,0.39,87.8,0,0,0,178,304,376,278
+Chris Bassitt,Athletics,Adam Plutko,947,Eric Lauer,935,Brandon Bielak,931,0.54,92.9,0.03,75,0.23,87.9,0.09,70.1,0.1,83.6,0,0,0,392,368,257,279
+Dakota Hudson,Cardinals,Mitch Keller,984,Riley Smith,981,Conner Menez,969,0.59,92.9,0.21,88.4,0,0,0.19,82.2,0.02,86.7,0,0,0,198,246,359,280
+Casey Sadler,- - -,Nick Pivetta,906,Griffin Canning,901,Sonny Gray,893,0.36,92.9,0.23,88.9,0,0,0.37,80.7,0.04,86.6,0,0,0,288,290,271,281
+Matt Strahm,Padres,Seth Lugo,998,Humberto Mejia,981,Triston McKenzie,978,0.56,92.9,0.15,85.9,0,0,0.19,81.1,0.1,85.9,0,0,0,244,292,286,282
+Jake Woodford,Cardinals,Robert Dugger,974,Conner Menez,970,Max Fried,970,0.51,92.9,0.27,84.5,0,0,0.21,76.3,0.01,86,0,0,0,350,359,269,283
+Carlos Martinez,Cardinals,Jonathan Holder,874,A.J. Cole,860,Vince Velasquez,852,0.51,92.9,0.27,82.9,0.01,91.5,0.02,79.3,0.2,85.8,0,0,0.02,333,243,213,284
+Zach Plesac,Indians,Patrick Sandoval,964,Dylan Bundy,956,Kyle Freeland,942,0.38,92.8,0.28,86.3,0,0,0.09,79.2,0.25,86.1,0,0,0,289,423,356,285
+Triston McKenzie,Indians,Matt Harvey,985,Seth Lugo,980,Humberto Mejia,980,0.53,92.8,0.2,86.4,0,0,0.17,80.1,0.1,86.8,0,0,0,185,244,292,286
+Paul Fry,Orioles,Geoff Hartlieb,996,Giovanny Gallegos,975,Cody Stashak,975,0.53,92.8,0.46,84.8,0,0,0,0,0.01,89.8,0,0,0,227,218,355,287
+Nick Pivetta,- - -,Max Fried,983,Austin Gomber,978,German Marquez,969,0.49,92.8,0.2,85.7,0,0,0.25,79.8,0.06,85.8,0,0,0,269,305,72,288
+Patrick Sandoval,Angels,Steven Brault,965,Zach Plesac,964,Mike Minor,963,0.45,92.8,0.25,84.6,0,0,0.07,78.1,0.23,84.2,0,0,0,338,285,408,289
+Griffin Canning,Angels,Ross Stripling,972,Brady Lail,942,Derek Holland,941,0.41,92.8,0.2,88.7,0,0,0.24,86.4,0.15,88,0,0,0,365,428,315,290
+David Hale,- - -,Trevor Richards,979,Matt Foster,965,Cole Sulser,963,0.53,92.8,0.16,81.7,0,0,0,0,0.31,82.7,0,0,0,412,206,210,291
+Humberto Mejia,Marlins,Seth Lugo,984,Matt Strahm,981,Austin Gomber,980,0.52,92.8,0.17,84.1,0,0,0.21,78.7,0.1,86.1,0,0,0,244,282,305,292
+Brad Keller,Royals,Brady Singer,992,Austin Brice,984,Cody Stashak,979,0.59,92.8,0.38,84.6,0,0,0,0,0.03,89.3,0,0,0,247,219,355,293
+Dan Winkler,Cubs,Erasmo Ramirez,872,Jesse Chavez,853,Chris Mazza,853,0.33,92.7,0.11,82,0.56,88,0,0,0,89,0,0,0,413,394,339,294
+Logan Webb,Giants,Tyler Alexander,898,Ian Gibaut,889,Sean Manaea,850,0.49,92.7,0.15,81.5,0.05,90.5,0,0,0.31,84.7,0,0,0,409,89,414,295
+Daniel Norris,Tigers,Lucas Giolito,964,Steven Brault,957,Brad Boxberger,957,0.48,92.7,0.22,85.4,0,0,0,76,0.31,87.7,0,0,0,191,338,303,296
+Tommy Hunter,Phillies,David Phelps,958,Josh Osich,916,Shawn Armstrong,914,0.43,92.7,0,0,0.34,90.5,0.23,82.4,0,0,0,0,0,181,310,221,297
+Marcus Walden,Red Sox,Kenley Jansen,880,Justin Wilson,835,Chris Mazza,835,0.38,92.7,0.22,84.8,0.41,90,0,0,0,0,0,0,0,313,107,339,298
+Tyler Duffey,Twins,Pierce Johnson,964,Joe Kelly,934,James Karinchak,893,0.44,92.6,0,0,0,0,0.56,82.8,0,0,0,0,0,52,25,77,299
+Will Smith,Braves,Dellin Betances,963,Brad Hand,957,Garrett Richards,934,0.45,92.6,0.47,81.6,0,0,0.08,77.6,0,0,0,0,0,226,377,95,300
+Brandon Workman,- - -,Anthony Misiewicz,836,Rowan Wick,803,Josh Tomlin,777,0.26,92.6,0,0,0.34,87.6,0.4,79.3,0,0,0,0,0.02,182,109,467,301
+Jordan Montgomery,Yankees,Gio Gonzalez,947,Carson Fulmer,924,Chase Anderson,919,0.47,92.5,0,0,0.06,89.5,0.22,80.5,0.26,83.3,0,0,0,436,306,307,302
+Brad Boxberger,Marlins,Steven Brault,967,Jesus Luzardo,962,Daniel Norris,957,0.55,92.5,0.18,88.3,0,0,0.01,78.5,0.27,81.3,0,0,0,338,80,296,303
+Alex Cobb,Orioles,Buck Farmer,975,Ian Anderson,969,Kris Bubic,959,0.48,92.5,0,0,0,0,0.17,81.8,0.35,87,0,0,0,258,178,375,304
+Austin Gomber,Cardinals,Max Fried,981,Humberto Mejia,980,Nick Pivetta,978,0.53,92.5,0.16,85.9,0,0,0.24,76.4,0.07,83.4,0,0,0,269,292,288,305
+Carson Fulmer,- - -,Luke Weaver,969,Jacob Waguespack,961,Pablo Lopez,952,0.54,92.5,0,0,0.12,86.4,0.11,81.6,0.23,86.1,0,0,0,184,312,216,306
+Chase Anderson,Blue Jays,Walker Lockett,959,Hyun-Jin Ryu,952,Merrill Kelly,940,0.4,92.5,0,0,0.2,87.3,0.16,77.2,0.24,82.6,0,0,0,245,445,348,307
+Joe Musgrove,Pirates,Mike Clevinger,944,Shane Bieber,924,Max Scherzer,918,0.39,92.5,0.24,82.6,0.06,88.3,0.2,81,0.11,86.4,0,0,0,97,172,130,308
+Joakim Soria,Athletics,Ross Detwiler,885,Liam Hendriks,883,Aaron Slegers,865,0.66,92.4,0.2,77.8,0,0,0.05,70.9,0.09,87.1,0,0,0.02,374,62,389,309
+Josh Osich,- - -,Shawn Armstrong,963,Tommy Hunter,916,Kyle Ryan,893,0.37,92.4,0,0,0.48,87.2,0.15,76.9,0,0,0,0,0,221,297,471,310
+Ryan Castellani,Rockies,Danny Duffy,981,Brady Lail,978,Derek Holland,978,0.5,92.4,0.17,85.1,0,0,0.17,79.5,0.16,85.7,0,0,0,324,428,315,311
+Jacob Waguespack,Blue Jays,Jake Arrieta,971,Carson Fulmer,961,James Paxton,949,0.52,92.4,0,0,0.19,88.5,0.11,75.9,0.19,82.4,0,0,0,346,306,331,312
+Kenley Jansen,Dodgers,Marcus Walden,880,Dan Winkler,835,Alex Colome,829,0.29,92.4,0.1,81.7,0.62,91,0,0,0,0,0,0,0,298,294,159,313
+Aaron Nola,Phillies,Duane Underwood Jr.,978,Alex Wood,974,Jeff Hoffman,932,0.46,92.4,0,0,0,0,0.27,78.7,0.27,85,0,0,0.01,138,390,145,314
+Derek Holland,Pirates,Ryan Castellani,978,Logan Allen,975,Kyle Wright,975,0.47,92.3,0.22,81.8,0,0,0.15,79.3,0.16,84.4,0,0,0,311,183,165,315
+Kyle Gibson,Rangers,Luis Garcia,951,Max Scherzer,943,Humberto Castellanos,938,0.49,92.3,0.24,83,0,87.6,0.08,78.8,0.18,84.4,0,0,0,194,130,432,316
+Stefan Crichton,Diamondbacks,Kevin Ginkel,900,Hector Rondon,899,Aaron Slegers,894,0.62,92.3,0.37,77.9,0,0,0,0,0.01,86.5,0,0,0.03,76,73,389,317
+Cam Bedrosian,Angels,Tanner Houck,942,Frankie Montas,845,Aroldis Chapman,828,0.53,92.3,0.46,81.3,0,0,0,0,0,0,0.01,84.7,0,344,68,7,318
+Cristian Javier,Astros,Michael Fulmer,977,Robert Gsellman,971,Spencer Turnbull,970,0.63,92.3,0.26,78.7,0,0,0.04,76.3,0.07,86,0,0,0,262,232,176,319
+Chi Chi Gonzalez,Rockies,Dane Dunning,983,Bryse Wilson,975,Tarik Skubal,973,0.59,92.2,0.2,87,0,0,0.08,81,0.14,87.1,0,0,0,353,190,147,320
+Cameron Hill,Indians,Phil Maton,974,Ryan Pressly,927,Scott Barlow,925,0.49,92.2,0.36,83.9,0,0,0.16,78.5,0,0,0,0,0.01,233,134,115,321
+Jordan Lyles,Rangers,Joe Musgrove,912,Tanner Roark,909,Shane Bieber,908,0.48,92.2,0.12,85.6,0.01,86.6,0.3,79.7,0.1,86.7,0,0,0,308,404,172,322
+Ivan Nova,Tigers,Archie Bradley,956,Jose Berrios,951,Jose Quintana,951,0.59,92.2,0,0,0,0,0.25,79.6,0.16,86.5,0,0,0,173,166,380,323
+Danny Duffy,Royals,Ryan Castellani,981,Jason Adam,973,Wes Benjamin,969,0.53,92.2,0.17,82.6,0,0,0.14,75.5,0.15,83.9,0,0,0,311,122,397,324
+Phillips Valdez,Red Sox,Devin Williams,953,Tony Watson,951,Pedro Baez,899,0.45,92.2,0.06,81.6,0,0,0,0,0.49,85.1,0,0,0,45,437,160,325
+Craig Stammen,Padres,Zach Eflin,945,Eric Lauer,923,Chris Bassitt,910,0.65,92.2,0.07,86.2,0.14,89.2,0.12,80.7,0.02,87.2,0,0,0,205,368,279,326
+Corey Oswalt,Mets,Jake Arrieta,968,Kolby Allard,942,Jacob Waguespack,935,0.53,92.2,0,0,0.28,87.9,0.02,82.3,0.17,85.5,0,0,0,346,371,312,327
+Dylan Covey,Red Sox,Yusei Kikuchi,895,Ryan Tepera,877,Chris Martin,848,0.39,92.2,0.1,80.9,0.34,86.4,0,0,0,0,0.16,84.6,0,105,196,180,328
+T.J. Zeuch,Blue Jays,Yimi Garcia,941,Aaron Loup,941,Jesse Chavez,937,0.56,92.2,0.16,80.8,0.21,86.7,0,0,0.07,83.3,0,0,0,149,340,394,329
+Masahiro Tanaka,Yankees,Josh Lindblom,841,Jake Odorizzi,802,Jeff Samardzija,768,0.32,92.2,0.38,84,0,88,0.06,75,0.05,85,0.19,87.7,0,427,272,407,330
+James Paxton,Yankees,Colin Rea,968,Jacob Waguespack,949,Daniel Ponce de Leon,936,0.57,92.1,0,0,0.15,85.4,0.16,79.8,0.13,82,0,0,0,275,312,259,331
+Jaime Barria,Angels,Yency Almonte,977,Dennis Santana,966,Michael Pineda,959,0.43,92.1,0.46,84,0,0,0,0,0.11,84.2,0,0,0,125,157,336,332
+Jonathan Holder,Yankees,Michael Lorenzen,904,Sean Manaea,893,Vince Velasquez,892,0.52,92.1,0.1,80.7,0.1,87.3,0.03,77.5,0.24,87.3,0,0,0.01,39,414,213,333
+Mike Soroka,Braves,Taylor Hearn,973,Andrew Heaney,971,Dillon Tate,969,0.59,92.1,0.29,81.3,0,0,0,0,0.12,80.4,0,0,0,110,373,151,334
+Jeffrey Springs,Red Sox,Jarlin Garcia,948,Raisel Iglesias,946,John Schreiber,911,0.47,92.1,0.27,83,0,0,0,0,0.26,81.6,0,0,0.01,211,59,442,335
+Michael Pineda,Twins,Kyle Cody,982,Randy Dobnak,971,Cal Quantrill,966,0.5,92.1,0.39,82.5,0,0,0,0,0.11,85.7,0,0,0,163,367,113,336
+Caleb Smith,- - -,Trevor Williams,995,Matthew Boyd,984,Jon Gray,977,0.51,92.1,0.26,83.6,0,0,0.08,77.4,0.15,81.8,0,0,0,387,363,188,337
+Steven Brault,Pirates,Mike Minor,977,David Peterson,972,Brad Boxberger,967,0.51,92.1,0.23,83,0,0,0.03,73.9,0.24,85.1,0,0,0,408,341,303,338
+Chris Mazza,Red Sox,Asher Wojciechowski,949,Jesse Chavez,925,Yimi Garcia,907,0.39,92.1,0.28,82.3,0.3,88.6,0,0,0.03,84.9,0,0,0,398,394,149,339
+Aaron Loup,Rays,Yimi Garcia,973,Jesse Chavez,971,Erasmo Ramirez,954,0.5,92.1,0.1,77.7,0.31,85.4,0,0,0.09,80.7,0,0,0,149,394,413,340
+David Peterson,Mets,Josh Fleming,975,Steven Brault,972,Matthew Boyd,972,0.53,92.1,0.26,81.4,0,0,0.03,75,0.19,83.7,0,0,0,411,338,363,341
+Sam Howard,Pirates,Robert Stephenson,951,Tyler Kinley,944,Shaun Anderson,941,0.37,92.1,0.62,84.7,0,0,0,0,0,83,0,0,0,126,65,139,342
+Shane Greene,Braves,Erick Fedde,903,Tyler Alexander,891,Asher Wojciechowski,887,0.39,92.1,0.22,80.6,0.25,87.4,0,0,0.13,86,0,0,0.01,238,409,398,343
+Tanner Houck,Red Sox,Cam Bedrosian,942,Aroldis Chapman,886,Frankie Montas,881,0.62,92.1,0.36,82.2,0,0,0,0,0,0,0.02,87,0,318,7,68,344
+Matt Shoemaker,Blue Jays,Tony Gonsolin,956,Shun Yamaguchi,930,Taijuan Walker,850,0.44,92.1,0.18,81.6,0,0,0.06,76.1,0,0,0.33,85.4,0,98,402,260,345
+Jake Arrieta,Phillies,Jacob Waguespack,971,Corey Oswalt,968,Kolby Allard,949,0.52,92.1,0,0,0.23,88.9,0.07,81.8,0.17,87.3,0,0,0,312,327,371,346
+Martin Perez,Red Sox,Hyun-Jin Ryu,950,Michael Wacha,927,Chase Anderson,924,0.33,92.1,0,0,0.32,88.8,0.09,77.7,0.26,83.7,0,0,0,445,228,307,347
+Merrill Kelly,Diamondbacks,Cody Ponce,957,Walker Lockett,948,Marco Gonzales,945,0.42,92.1,0,0,0.21,90.6,0.22,81.2,0.15,87.6,0,0,0,252,245,466,348
+Austin Voth,Nationals,Zack Wheeler,902,Nick Margevicius,810,Wilmer Font,784,0.61,92.1,0.12,86.7,0,0,0.24,78.4,0.03,85.1,0.01,87.8,0.01,33,430,116,349
+Robert Dugger,Marlins,Conner Menez,993,Jack Flaherty,978,Jake Woodford,974,0.54,92,0.27,81.8,0,0,0.17,75.7,0.03,84.2,0,0,0,359,230,283,350
+Deivi Garcia,Yankees,Keegan Akin,981,Alec Mills,978,Sean Newcomb,965,0.6,92,0.09,82.6,0,0,0.15,75.4,0.17,80.8,0,0,0,357,431,241,351
+Justus Sheffield,Mariners,Randy Dobnak,988,Reynaldo Lopez,967,Luis Perdomo,964,0.48,92,0.34,81.9,0,0,0,0,0.19,86.3,0,0,0,367,171,193,352
+Dane Dunning,White Sox,Chi Chi Gonzalez,983,Michael Fulmer,983,Bryse Wilson,973,0.6,91.9,0.22,81.6,0,0,0.07,78.8,0.11,85.6,0,0,0,320,262,190,353
+Matt Wisler,Twins,Diego Castillo,875,Andrew Miller,849,Sam Selman,843,0.17,91.9,0.83,81.3,0,0,0,0,0,0,0,0,0,60,419,391,354
+Cody Stashak,Twins,Brad Keller,979,Brady Singer,978,Paul Fry,975,0.55,91.9,0.41,82.1,0,0,0,0,0.04,86,0,0,0,293,247,287,355
+Kyle Freeland,Rockies,Trevor Cahill,942,Zach Plesac,942,Dylan Bundy,940,0.34,91.9,0.24,86.3,0,0,0.19,80.4,0.24,86.1,0,0,0,400,285,423,356
+Keegan Akin,Orioles,Deivi Garcia,981,Adrian Houser,968,Alec Mills,967,0.62,91.9,0.1,80.7,0,0,0.11,77.2,0.17,81.3,0,0,0,351,240,431,357
+Matt Magill,Mariners,Scott Barlow,894,Ryan Pressly,893,Dellin Betances,874,0.33,91.9,0.39,85.9,0,0,0.28,82.6,0,0,0,0,0,115,134,226,358
+Conner Menez,Giants,Robert Dugger,993,Jack Flaherty,972,Mitch Keller,972,0.54,91.8,0.25,84.3,0,0,0.17,80.8,0.04,84.7,0,0,0,350,230,198,359
+Matt Andriese,Angels,Tommy Milone,928,Devin Smeltzer,922,Lucas Giolito,918,0.43,91.8,0.08,85.8,0,0,0.12,80.1,0.37,86,0,0,0,481,474,191,360
+Javy Guerra,Nationals,Wilmer Font,966,J.A. Happ,927,Nick Margevicius,899,0.68,91.8,0.16,85.9,0,0,0.08,78.9,0,0,0.08,84.2,0,116,401,430,361
+Aaron Civale,Indians,Shane Bieber,920,Corbin Burnes,913,Zac Gallen,913,0.31,91.8,0.09,82.3,0.29,87.5,0.21,75.7,0.09,85.3,0,0,0,172,63,253,362
+Matthew Boyd,Tigers,Caleb Smith,984,Trevor Williams,979,David Peterson,972,0.53,91.7,0.23,79.4,0,0,0.08,74.2,0.17,79.1,0,0,0,337,387,341,363
+Mark Melancon,Braves,Josh Tomlin,771,Brandon Workman,757,Wander Suero,740,0.03,91.7,0,0,0.55,91.9,0.39,81.9,0.03,84.4,0,0,0.03,467,301,429,364
+Ross Stripling,- - -,Griffin Canning,972,Brady Lail,964,Ryan Castellani,954,0.44,91.7,0.15,85.8,0,0,0.24,78.7,0.17,84.6,0,0,0,290,428,311,365
+Chasen Shreve,Mets,Hansel Robles,937,Shun Yamaguchi,859,Matt Shoemaker,833,0.51,91.7,0.08,79.8,0,0,0,0,0,0,0.41,83.4,0,82,402,345,366
+Randy Dobnak,Twins,Justus Sheffield,988,Michael Pineda,971,Kyle Cody,967,0.48,91.6,0.35,83.5,0,0,0,0,0.16,85.7,0,0,0,352,336,163,367
+Eric Lauer,Brewers,Daniel Mengden,947,Trevor Bauer,940,Chris Bassitt,935,0.53,91.6,0.16,83.9,0.18,87.1,0.08,75.1,0.05,84.1,0,0,0,426,234,279,368
+Clayton Kershaw,Dodgers,Chad Kuhl,960,Tejay Antone,956,Lucas Sims,949,0.41,91.6,0.4,87.9,0,0,0.19,74.2,0,87,0,0,0,201,70,197,369
+Nick Goody,Rangers,Sam Selman,993,Andrew Miller,983,Amir Garrett,972,0.43,91.6,0.57,81.5,0,0,0,0,0,0,0,0,0,391,419,128,370
+Kolby Allard,Rangers,Jon Lester,965,Jake Arrieta,949,Marco Gonzales,944,0.47,91.6,0,0,0.31,86.8,0.1,76.8,0.13,82.5,0,0,0,454,346,466,371
+Adam Morgan,Phillies,Luis Cessa,953,Zach Plesac,910,Lewis Thorpe,907,0.34,91.6,0.45,81.5,0,0,0.05,77.2,0.16,83.5,0,0,0,223,285,444,372
+Andrew Heaney,Angels,Trevor Rogers,975,T.J. McFarland,973,Dillon Tate,973,0.58,91.5,0.25,79.3,0,0,0,0,0.17,83,0,0,0,229,462,151,373
+Ross Detwiler,White Sox,Jimmy Herget,944,Tyler Zuber,919,Taylor Clarke,910,0.57,91.5,0.31,83.3,0,0,0.03,77.9,0.09,85.2,0,0,0.01,268,175,154,374
+Kris Bubic,Royals,Buck Farmer,976,Kyle Hendricks,961,Alex Cobb,959,0.54,91.5,0,0,0,0,0.16,78.6,0.3,79.7,0,0,0,258,475,304,375
+Ljay Newsome,Mariners,Felix Pena,964,Jose Berrios,957,Ian Anderson,945,0.49,91.5,0,0,0,0,0.27,77.1,0.24,84.7,0,0,0,150,166,178,376
+Brad Hand,Indians,Will Smith,957,Dellin Betances,924,Dakota Bacus,920,0.48,91.4,0.52,79.6,0,0,0.01,76.5,0,0,0,0,0,300,226,403,377
+Jared Hughes,Mets,Aaron Slegers,965,Daniel Bard,939,Nick Wittgren,925,0.59,91.4,0.27,80.9,0,0,0,0,0.14,84.3,0,0,0.02,389,24,277,378
+Kenta Maeda,Twins,Carlos Carrasco,892,Johnny Cueto,851,Kyle Gibson,847,0.26,91.4,0.4,83.1,0.02,87.7,0.03,78.6,0.29,84.5,0,0,0,231,385,316,379
+Jose Quintana,Cubs,Jorge Lopez,981,Framber Valdez,978,Corey Knebel,953,0.6,91.4,0,0,0,0,0.31,77.2,0.09,86.4,0,0,0,214,264,152,380
+Elieser Hernandez,Marlins,Brady Singer,981,Brad Keller,977,Ryan Thompson,972,0.59,91.4,0.35,79.1,0,0,0,0,0.06,83.6,0,0,0,247,293,382,381
+Ryan Thompson,Rays,Austin Brice,975,Brad Keller,974,Elieser Hernandez,972,0.61,91.3,0.38,76.5,0,0,0,0,0.01,79.7,0,0,0,219,293,381,382
+Brandon Kintzler,Marlins,Nick Wittgren,863,Jared Hughes,856,Aaron Slegers,854,0.76,91.3,0.11,84.7,0,0,0,0,0.14,86.1,0,0,0.03,277,378,389,383
+Kyle McGowin,Nationals,Robert Stephenson,897,Sam Howard,890,Tyler Kinley,877,0.28,91.3,0.71,82,0,0,0,0,0.01,86,0,0,0.01,126,342,65,384
+Johnny Cueto,Giants,Brett Anderson,974,Sean Manaea,941,Nick Ramirez,936,0.44,91.3,0.13,81.8,0.08,84.7,0.08,79.2,0.27,82.5,0,0,0,441,414,446,385
+Oliver Drake,Rays,Hector Neris,804,Chasen Shreve,782,Hansel Robles,748,0.48,91.3,0.01,85,0,0,0,0,0,0,0.51,83.5,0.02,192,366,82,386
+Trevor Williams,Pirates,Caleb Smith,995,Rick Porcello,981,Matthew Boyd,979,0.51,91.3,0.27,82.7,0,0,0.07,77.9,0.15,85.1,0,0,0,337,415,363,387
+Justin Dunn,Mariners,Alex Reyes,920,Austin Gomber,906,Max Fried,901,0.55,91.2,0.15,83,0,0,0.24,79.5,0.06,87.1,0,0,0.01,15,305,269,388
+Aaron Slegers,Rays,Jared Hughes,965,Hector Rondon,946,Kevin Ginkel,932,0.62,91.2,0.3,84.9,0,0,0,0,0.08,86,0,0,0.02,378,73,76,389
+Alex Wood,Dodgers,Aaron Nola,974,Duane Underwood Jr.,949,Robbie Erlin,937,0.48,91.2,0,0,0,0,0.29,84.6,0.23,84.8,0,0,0.01,314,138,449,390
+Sam Selman,Giants,Andrew Miller,996,Nick Goody,993,Amir Garrett,961,0.41,91.2,0.59,80,0,0,0,0,0,0,0,0,0,419,370,128,391
+Adam Plutko,Indians,Chris Bassitt,947,Eric Lauer,921,Trevor Bauer,919,0.5,91.1,0.03,82.3,0.3,86.8,0.12,76.9,0.05,84.4,0,0,0,279,368,234,392
+Nick Tropeano,Pirates,Jeremy Jeffress,780,Tyler Clippard,751,Touki Toussaint,745,0.3,91,0,0,0,0,0.31,78.6,0.12,81.1,0.26,81,0,254,456,199,393
+Jesse Chavez,Rangers,Aaron Loup,971,Yimi Garcia,956,Erasmo Ramirez,945,0.49,91,0.14,83.4,0.32,88.9,0,0,0.05,85.1,0,0,0,340,149,413,394
+Jakob Junis,Royals,Steve Cishek,974,Paul Fry,967,Cody Stashak,967,0.49,91,0.46,80.2,0,0,0,0,0.05,84.6,0,0,0,416,287,355,395
+Stephen Tarpley,Marlins,Oliver Perez,927,Keury Mella,898,Yoan Lopez,860,0.69,91,0.32,78.8,0,0,0,0,0,0,0,0,0.04,433,96,87,396
+Wes Benjamin,Rangers,Derek Holland,973,Triston McKenzie,972,Danny Duffy,969,0.5,91,0.23,85.6,0,0,0.14,78.7,0.12,84.5,0,0,0,315,286,324,397
+Asher Wojciechowski,Orioles,Chris Mazza,949,T.J. Zeuch,934,Jesse Chavez,930,0.46,91,0.27,78.2,0.22,85.7,0,0,0.05,84.6,0,0,0,339,329,394,398
+Alex Young,Diamondbacks,Walker Lockett,972,Merrill Kelly,942,Chase Anderson,937,0.33,91,0,0,0.22,86.8,0.25,81.7,0.21,85.2,0,0,0,245,348,307,399
+Trevor Cahill,Giants,Kyle Freeland,942,Ross Stripling,918,Zack Greinke,914,0.35,90.9,0.12,85.2,0,0,0.23,78.5,0.29,82.7,0,0,0,356,365,478,400
+J.A. Happ,Yankees,Jordan Weems,934,Javy Guerra,927,Tyler Mahle,919,0.66,90.9,0.2,84.1,0,0,0,82.5,0,0,0.14,86.5,0,91,361,202,401
+Shun Yamaguchi,Blue Jays,Matt Shoemaker,930,Tony Gonsolin,886,Chasen Shreve,859,0.41,90.8,0.17,81.7,0,0,0.02,72.2,0,0,0.4,84.8,0,345,98,366,402
+Dakota Bacus,Nationals,Will Smith,922,Brad Hand,920,Dellin Betances,880,0.34,90.7,0.6,85.2,0,0,0.05,77.5,0,0,0,0,0,300,377,226,403
+Tanner Roark,Blue Jays,Humberto Castellanos,952,Daniel Mengden,949,Luis Garcia,940,0.53,90.7,0.15,84.1,0.03,86.7,0.15,73.1,0.13,81,0,0,0,432,426,194,404
+Blake Parker,Phillies,Jeremy Jeffress,866,Hector Neris,789,Oliver Drake,746,0.41,90.7,0,0,0,0,0.17,76.1,0,0,0.42,80.1,0.02,254,192,386,405
+Tim Hill,Padres,Scott Alexander,893,Jake McGee,888,Zack Britton,879,0.9,90.7,0.1,80.4,0,0,0,0,0,0,0,0,0.01,266,112,120,406
+Jeff Samardzija,Giants,Josh Lindblom,853,Jake Odorizzi,847,Yusei Kikuchi,797,0.37,90.7,0.22,84.1,0.21,87,0,0,0.14,82.8,0.06,81.6,0,427,272,105,407
+Mike Minor,- - -,Steven Brault,977,David Peterson,967,Matthew Boyd,965,0.51,90.6,0.21,85.7,0,0,0.06,80.2,0.22,85.5,0,0,0,338,341,363,408
+Tyler Alexander,Tigers,Asher Wojciechowski,919,T.J. Zeuch,908,Yimi Garcia,907,0.44,90.6,0.21,82.6,0.17,86.1,0,0,0.18,84.6,0,0,0,398,329,149,409
+Grant Dayton,Braves,Matt Barnes,923,Corey Knebel,897,Framber Valdez,888,0.63,90.6,0,0,0,0,0.37,75.9,0,83,0,0,0.01,74,152,264,410
+Josh Fleming,Rays,Rick Porcello,977,David Peterson,975,Trevor Williams,966,0.54,90.6,0.29,85.4,0,0,0.01,78,0.16,81.5,0,0,0,415,341,387,411
+Trevor Richards,Rays,David Hale,979,Daniel Castano,954,Cole Sulser,946,0.51,90.5,0.18,82.7,0,0,0,0,0.31,82.6,0,0,0,291,453,210,412
+Erasmo Ramirez,Mets,Aaron Loup,954,Jesse Chavez,945,Yimi Garcia,935,0.45,90.4,0.06,79.8,0.38,88.1,0,0,0.11,83.9,0,0,0,340,394,149,413
+Sean Manaea,Athletics,Johnny Cueto,941,Ryan Weber,928,Brett Anderson,927,0.54,90.4,0.07,77.9,0.03,84.3,0.07,77.1,0.28,82.6,0,0,0,385,460,441,414
+Rick Porcello,Mets,Trevor Williams,981,Josh Fleming,977,Caleb Smith,974,0.53,90.4,0.29,86.3,0,0,0.05,75,0.13,81.8,0,0,0,387,411,337,415
+Steve Cishek,White Sox,Jakob Junis,974,Giovanny Gallegos,968,Jake Newberry,964,0.48,90.4,0.51,78.2,0,0,0,0,0.01,82.5,0,0,0,395,218,237,416
+Brad Brach,Mets,Dallas Keuchel,962,Ryan Yarbrough,910,Erasmo Ramirez,910,0.37,90.4,0.08,81.2,0.31,87.1,0,0,0.24,83.3,0,0,0,477,476,413,417
+Josh A. Smith,Marlins,Aaron Civale,889,Shane Bieber,870,Jordan Yamamoto,853,0.35,90.3,0.05,85.3,0.29,86.9,0.28,77.7,0.03,82.8,0,0,0.01,362,172,439,418
+Andrew Miller,Cardinals,Sam Selman,996,Nick Goody,983,Amir Garrett,950,0.4,90.3,0.6,80.1,0,0,0,0,0,0,0,0,0,391,370,128,419
+Tyler Anderson,Giants,Zach Davies,939,Michael Wacha,939,Luke Weaver,926,0.47,90.2,0,0,0.18,85,0.02,71.8,0.33,80.9,0,0,0,461,228,184,420
+Patrick Corbin,Nationals,Rick Porcello,937,Nate Pearson,926,Josh Fleming,925,0.52,90.2,0.4,79.2,0,0,0.02,65.1,0.06,77.8,0,0,0,415,51,411,421
+Wade Miley,Reds,Wade LeBlanc,861,Brooks Raley,854,Aaron Civale,826,0.14,90.2,0.02,81.6,0.5,86,0.11,75.1,0.24,82.3,0,0,0,479,424,362,422
+Dylan Bundy,Angels,Patrick Sandoval,960,Zach Plesac,956,Derek Holland,955,0.42,90.2,0.25,80,0,0,0.12,73.5,0.21,82.3,0,0,0,289,285,315,423
+Brooks Raley,- - -,Aaron Civale,886,Corbin Burnes,878,Wade Miley,854,0.23,90.2,0.19,82.1,0.44,86.8,0.1,78.4,0.04,84.2,0,0,0,362,63,422,424
+Tyler Webb,Cardinals,Cole Sulser,956,Trevor Rogers,954,T.J. McFarland,952,0.6,90.1,0.17,74.9,0,0,0,0,0.24,78.6,0,0,0,210,229,462,425
+Daniel Mengden,Athletics,Humberto Castellanos,987,Ryan Weber,962,Brandon Bielak,956,0.52,90.1,0.15,82.2,0.12,85.6,0.09,73,0.13,83,0,0,0,432,460,257,426
+Josh Lindblom,Brewers,Jake Odorizzi,893,Yu Darvish,855,Jeff Samardzija,853,0.35,90.1,0.17,75.9,0.19,85.6,0.1,71.1,0.09,84.1,0.1,83.4,0,272,79,407,427
+Brady Lail,- - -,Ryan Castellani,978,Ross Stripling,964,Danny Duffy,962,0.49,90.1,0.15,85.6,0,0,0.19,78.8,0.16,86.1,0,0,0,311,365,324,428
+Wander Suero,Nationals,Josh Tomlin,755,Mark Melancon,740,Anthony Misiewicz,702,0,90,0,0,0.81,91.1,0.05,77.1,0.13,86.2,0,0,0.02,467,364,182,429
+Nick Margevicius,Mariners,Javy Guerra,899,Kwang-hyun Kim,898,Wilmer Font,884,0.64,90,0.16,84.3,0,0,0.12,70.3,0,0,0.09,82.2,0.01,361,435,116,430
+Alec Mills,Cubs,Deivi Garcia,978,Keegan Akin,967,Danny Duffy,953,0.59,90,0.1,77.5,0,0,0.15,66.7,0.16,80.9,0,0,0,351,357,324,431
+Humberto Castellanos,Astros,Daniel Mengden,987,Ryan Weber,970,Brandon Bielak,952,0.5,90,0.17,78.9,0.1,86.6,0.09,77.5,0.14,82.8,0,0,0,426,460,257,432
+Oliver Perez,Indians,Stephen Tarpley,927,Yoan Lopez,888,Keury Mella,870,0.57,89.9,0.43,76.2,0,0,0,0,0,0,0,0,0.04,396,87,96,433
+Yoshihisa Hirano,Mariners,Hector Neris,872,Chasen Shreve,788,Oliver Drake,741,0.45,89.9,0,0,0,0,0,0,0,0,0.55,82.2,0,192,366,386,434
+Kwang-hyun Kim,Cardinals,Nick Margevicius,898,Tyler Mahle,870,Taijuan Walker,860,0.48,89.9,0.32,83.2,0,0,0.11,70,0,0,0.09,80.4,0.01,430,202,260,435
+Gio Gonzalez,White Sox,Jordan Montgomery,947,Rico Garcia,915,Pablo Lopez,906,0.47,89.9,0,0,0.01,85.6,0.19,76.7,0.33,82.8,0,0,0,302,67,216,436
+Tony Watson,Giants,Phillips Valdez,951,Alex Claudio,920,Devin Williams,913,0.38,89.9,0.14,81.2,0,0,0,0,0.48,84.1,0,0,0,325,483,45,437
+Jace Fry,White Sox,Madison Bumgarner,898,Greg Holland,883,Tyler Zuber,882,0.4,89.8,0.39,86.5,0,0,0.17,76.5,0.04,85.1,0,0,0.02,464,274,175,438
+Jordan Yamamoto,Marlins,Trevor Bauer,944,Eric Lauer,920,Joe Musgrove,903,0.41,89.8,0.22,78,0.21,86.3,0.15,74.3,0.02,82,0,0,0,234,368,308,439
+Caleb Thielbar,Twins,Jesse Hahn,931,Brett Martin,906,Freddy Peralta,891,0.54,89.8,0.2,77.8,0,0,0.25,68.8,0,0,0,0,0,108,187,270,440
+Brett Anderson,Brewers,Johnny Cueto,974,Brandon Bielak,936,Ryan Weber,935,0.43,89.8,0.11,82.2,0.11,87.3,0.1,76.1,0.24,82.8,0,0,0,385,257,460,441
+John Schreiber,Tigers,Jarlin Garcia,949,Huascar Ynoa,914,Raisel Iglesias,913,0.53,89.8,0.35,77.6,0,0,0,0,0.13,84.8,0,0,0.01,211,119,59,442
+Zack Godley,Red Sox,Josh Tomlin,861,Travis Lakins,848,Adam Wainwright,838,0.12,89.7,0,0,0.4,88.7,0.38,82,0.1,83.1,0,0,0,467,250,451,443
+Lewis Thorpe,Twins,Trevor Williams,973,Caleb Smith,968,Rick Porcello,965,0.47,89.7,0.3,82,0,0,0.09,72.7,0.14,82.2,0,0,0,387,337,415,444
+Hyun-Jin Ryu,Blue Jays,Chase Anderson,952,Martin Perez,950,Walker Lockett,925,0.35,89.6,0,0,0.24,85.5,0.13,72.3,0.28,79.7,0,0,0,307,347,245,445
+Nick Ramirez,Tigers,Johnny Cueto,936,Brett Anderson,931,Sean Manaea,902,0.41,89.6,0.07,84.7,0.16,87.2,0.03,77.7,0.33,79.7,0,0,0,385,441,414,446
+Anibal Sanchez,Nationals,Wade LeBlanc,888,Nick Ramirez,880,Kyle Hart,850,0.32,89.6,0,83.7,0.26,87.6,0.06,76.3,0.36,79.6,0,0,0.01,479,446,455,447
+Mike Kickham,Red Sox,Jace Fry,856,Madison Bumgarner,838,Greg Holland,821,0.19,89.5,0.49,85.3,0,0,0.32,78.6,0,83,0,0,0.02,438,464,274,448
+Robbie Erlin,- - -,Alex Wood,937,Aaron Nola,912,Jeff Hoffman,905,0.57,89.4,0,0,0,0,0.27,76,0.16,82.9,0,0,0.01,390,314,145,449
+Nick Vincent,Marlins,Kolby Allard,934,Jon Lester,925,Corey Oswalt,910,0.47,89.3,0,0,0.41,87.5,0.04,82.7,0.08,83.3,0,0,0,371,454,327,450
+Adam Wainwright,Cardinals,Dovydas Neverauskas,921,Cody Ponce,901,Dean Kremer,899,0.37,89.3,0,0,0.22,85,0.38,73.5,0.03,81.9,0,0,0,123,252,273,451
+Adam Kolarek,Dodgers,Michael King,883,Rafael Montero,879,Trevor Rosenthal,878,0.84,89.3,0.09,77.7,0,0,0,0,0.07,81.4,0,0,0,265,83,8,452
+Daniel Castano,Marlins,Trevor Richards,954,Justus Sheffield,948,Reynaldo Lopez,947,0.49,89.2,0.26,79.5,0,0,0,0,0.25,82,0,0,0,412,352,171,453
+Jon Lester,Cubs,Kolby Allard,965,Marco Gonzales,958,Nick Vincent,925,0.42,89.2,0,0,0.32,87.5,0.13,73.4,0.13,83.4,0,0,0,371,466,450,454
+Kyle Hart,Red Sox,Yusmeiro Petit,965,Zac Gallen,904,Chris Bassitt,901,0.42,89.2,0.04,79.9,0.31,83.3,0.05,73.4,0.19,79.8,0,0,0,468,253,279,455
+Tyler Clippard,Twins,Nick Tropeano,751,Josh Lindblom,737,Jake Odorizzi,733,0.38,89.2,0,0,0.01,81.5,0.07,75.1,0.35,78.1,0.2,81.1,0,393,427,272,456
+Julio Teheran,Angels,Dane Dunning,970,Chi Chi Gonzalez,962,Michael Fulmer,950,0.6,89,0.19,80.9,0,0,0.09,72.4,0.11,82.1,0,0,0,353,320,262,457
+Richard Bleier,- - -,Erick Fedde,890,Shane Greene,865,Aaron Slegers,822,0.53,88.9,0.24,78.8,0.17,88.1,0,0,0.06,82.8,0,0,0.02,238,343,389,458
+Noe Ramirez,Angels,Jacob Webb,886,A.J. Minter,881,Jeffrey Springs,877,0.36,88.8,0.31,76.8,0,0,0,0,0.33,83.5,0,0,0.02,225,75,335,459
+Ryan Weber,Red Sox,Humberto Castellanos,970,Daniel Mengden,962,Luis Garcia,945,0.52,88.6,0.16,77.6,0.08,86,0.06,74.5,0.18,81.6,0,0,0,432,426,194,460
+Zach Davies,Padres,Tyler Anderson,939,Hyun-Jin Ryu,899,Michael Wacha,899,0.39,88.6,0,0,0.17,87.1,0.03,74.6,0.41,79.4,0,0,0,420,445,228,461
+T.J. McFarland,Athletics,Andrew Heaney,973,Mike Soroka,953,Tyler Webb,952,0.6,88.5,0.24,78.3,0,0,0,0,0.17,81.9,0,0,0,373,334,425,462
+Ryne Harper,Nationals,Matt Barnes,716,James Karinchak,705,Grant Dayton,694,0.38,88.5,0,0,0,0,0.62,73.8,0,73,0.01,83,0.02,74,77,410,463
+Madison Bumgarner,Diamondbacks,Greg Holland,903,Jace Fry,898,Clayton Kershaw,897,0.4,88.4,0.36,83.5,0,0,0.23,77,0.01,82.9,0,0,0.01,274,438,369,464
+James Hoyt,Marlins,Anthony Bass,816,Ryne Stanek,759,Cam Bedrosian,755,0.31,88.4,0.67,80.6,0,0,0,0,0,0,0.02,84.8,0.02,127,64,318,465
+Marco Gonzales,Mariners,Jon Lester,958,Merrill Kelly,945,Kolby Allard,944,0.45,88.2,0,0,0.24,84.9,0.16,75.4,0.14,80.7,0,0,0,454,348,371,466
+Josh Tomlin,Braves,Travis Lakins,864,Zack Godley,861,Anthony Misiewicz,832,0.2,88.2,0,0,0.51,85.6,0.26,76.4,0.04,84.1,0,0,0.01,250,443,182,467
+Yusmeiro Petit,Athletics,Kyle Hart,965,Zac Gallen,922,Adam Plutko,910,0.42,88.2,0,81,0.29,84.6,0.11,74.4,0.18,81.3,0,0,0,455,253,392,468
+Mike Fiers,Athletics,Casey Mize,933,Nathan Eovaldi,793,Dylan Covey,772,0.45,88,0,0,0.27,84.3,0.12,72.7,0,0,0.16,82.1,0,222,19,328,469
+Hoby Milner,Angels,Jakob Junis,959,Cody Stashak,958,Steve Cishek,955,0.54,87.9,0.44,77.8,0,0,0,0,0.02,79,0,0,0,395,355,416,470
+Kyle Ryan,Cubs,Shawn Armstrong,916,Tommy Hunter,893,Josh Osich,893,0.53,87.9,0,0,0.39,85,0.09,78.1,0,0,0,0,0,221,297,310,471
+Eric Yardley,Brewers,Ryan Thompson,961,Elieser Hernandez,947,Austin Brice,936,0.65,87.8,0.34,73,0,0,0,0,0.01,80.3,0,0,0,382,381,219,472
+Rich Hill,Twins,Franklyn Kilome,762,Nathan Eovaldi,730,Drew Smyly,730,0.47,87.7,0.03,70.8,0.04,83.4,0.46,72.5,0,0,0,80,0,153,19,208,473
+Devin Smeltzer,Twins,Tommy Milone,923,Matt Andriese,922,Trevor Cahill,913,0.33,87.6,0.18,77.7,0,0,0.12,73,0.37,80.6,0,0,0,481,360,400,474
+Kyle Hendricks,Cubs,Kris Bubic,961,Buck Farmer,934,Alex Cobb,928,0.55,87.4,0,0,0,0,0.17,72.2,0.29,79.8,0,0,0,375,258,304,475
+Ryan Yarbrough,Rays,Dallas Keuchel,934,Brad Brach,910,Wade LeBlanc,839,0.23,87.4,0.11,70.9,0.36,83,0,0,0.3,78.6,0,0,0,477,417,479,476
+Dallas Keuchel,White Sox,Brad Brach,962,Ryan Yarbrough,934,Tyler Alexander,880,0.35,87.3,0.07,75.9,0.31,84.8,0,0,0.28,78.6,0,0,0,417,476,409,477
+Zack Greinke,Astros,Brady Lail,947,Dylan Bundy,945,Tom Eshelman,931,0.46,87.1,0.16,84.6,0,0,0.16,70.4,0.23,86,0,0,0,428,423,480,478
+Wade LeBlanc,Orioles,Anibal Sanchez,888,Nick Ramirez,878,Yusmeiro Petit,871,0.25,86.8,0,79,0.28,83.7,0.13,72.7,0.34,78.9,0,0,0,447,446,468,479
+Tom Eshelman,Orioles,Brady Lail,940,Wes Benjamin,938,Derek Holland,933,0.44,86.3,0.24,77.9,0,0,0.19,76.5,0.13,79.4,0,0,0,428,397,315,480
+Tommy Milone,- - -,Matt Andriese,928,Devin Smeltzer,923,Lucas Giolito,907,0.45,86.1,0.11,79.7,0,0,0.05,75.5,0.39,79,0,0,0,360,474,191,481
+Darren O'Day,Braves,Adam Cimber,966,Tyler Rogers,945,John Curtiss,920,0.57,86,0.43,78.4,0,0,0,0,0,0,0,0,0,484,488,189,482
+Alex Claudio,Brewers,Tony Watson,920,Trevor Richards,910,Pedro Baez,908,0.39,85.9,0.23,76.4,0,0,0,0,0.38,72.9,0,0,0,437,412,160,483
+Adam Cimber,Indians,Darren O'Day,966,Nick Goody,925,Andrew Miller,918,0.51,85.9,0.49,76.9,0,0,0,0,0,0,0,0,0,482,370,419,484
+Sergio Romo,Twins,Robert Stephenson,893,Sam Howard,885,Tyler Kinley,876,0.24,85.6,0.65,76,0,0,0,0,0.11,79.8,0,0,0,126,342,65,485
+Brent Suter,Brewers,Archie Bradley,857,Ivan Nova,839,Kyle Hendricks,837,0.79,85.6,0,0,0,0,0.07,73.2,0.14,81.2,0,0,0,173,323,475,486
+Cesar Valdez,Orioles,Tony Watson,751,Devin Williams,740,Phillips Valdez,735,0.16,85.5,0.01,77.5,0,0,0,0,0.83,77.9,0,0,0,437,45,325,487
+Tyler Rogers,Giants,Darren O'Day,945,Adam Cimber,911,Joey Gerber,887,0.64,82.5,0.36,71.4,0,0,0,0,0,0,0,0,0,482,484,248,488
+Will Harris,Nationals,Andre Scrubb,729,Josh Tomlin,22,Zack Godley,1,0,0,0,0,0.78,90.5,0.22,80.8,0,0,0,0,0,490,467,443,489
+Andre Scrubb,Astros,Will Harris,729,Josh Tomlin,14,Zack Godley,0,0,0,0.01,86,0.53,92.9,0.47,79.1,0,0,0,0,0.01,489,467,443,490

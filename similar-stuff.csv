@@ -1,0 +1,491 @@
+name,team,sim_pitcher_1,sim_score_1,sim_pitcher_2,sim_score_2,sim_pitcher_3,sim_score_3
+Brusdar Graterol,Dodgers,Josh Hader,950,Gregory Soto,942,Richard Rodriguez,938
+Jacob deGrom,Mets,Dylan Cease,949,Jon Gray,933,Nate Pearson,928
+Javier Guerra,Padres,Codi Heuer,977,Trevor Rosenthal,971,Jose Cisnero,964
+Josh Staumont,Royals,Nick Anderson,940,Drew Pomeranz,937,Seth Elledge,929
+Dustin May,Dodgers,Lou Trivino,968,Tyler Chatwood,947,Colin Rea,918
+Miguel Castro,- - -,Trevor May,982,Reynaldo Lopez,956,JoJo Romero,956
+Aroldis Chapman,Yankees,Tanner Houck,886,Frankie Montas,867,Wilmer Font,842
+Trevor Rosenthal,- - -,Codi Heuer,975,Javier Guerra,971,Evan Phillips,956
+Sam Coonrod,Giants,Luis Garcia,944,Kendall Graveman,925,Brandon Bielak,915
+Edwin Diaz,Mets,Peter Fairbanks,977,Victor Gonzalez,972,Austin Brice,960
+Jonathan Hernandez,Rangers,Jorge Alcala,972,Kyle Cody,963,Trevor May,963
+Drew Rasmussen,Brewers,Enoli Paredes,949,Lance Lynn,948,Robert Gsellman,946
+Codi Heuer,White Sox,Jose Cisnero,983,Carlos Estevez,978,Javier Guerra,977
+Sixto Sanchez,Marlins,Taylor Clarke,924,Jesus Luzardo,896,Patrick Sandoval,889
+Alex Reyes,Cardinals,Liam Hendriks,923,Justin Dunn,920,Gerrit Cole,898
+Dylan Cease,White Sox,Jon Gray,968,Logan Allen,959,Kyle Wright,957
+Luis Castillo,Reds,Thomas Hatch,966,David Hale,954,Cole Sulser,950
+Peter Fairbanks,Rays,Edwin Diaz,977,Victor Gonzalez,959,Geoff Hartlieb,956
+Nathan Eovaldi,Red Sox,Dylan Covey,815,Casey Mize,805,Josh Lindblom,801
+Dan Altavilla,- - -,Amir Garrett,974,Jordan Romano,959,Taylor Rogers,945
+Gregory Soto,Tigers,Caleb Ferguson,988,Zack Britton,978,Brusdar Graterol,942
+Keynan Middleton,Angels,JoJo Romero,972,Dillon Tate,968,Trevor Rogers,967
+Dinelson Lamet,Padres,Giovanny Gallegos,965,Jake Newberry,958,Shaun Anderson,946
+Daniel Bard,Rockies,Hector Rondon,941,Jared Hughes,939,Aaron Slegers,929
+Joe Kelly,Dodgers,Pierce Johnson,935,Tyler Duffey,934,James Karinchak,863
+Jorge Alcala,Twins,Yency Almonte,972,Jonathan Hernandez,972,Kyle Cody,953
+Tyler Glasnow,Rays,Corey Knebel,973,Framber Valdez,958,Jorge Lopez,958
+Carlos Estevez,Rockies,Robert Stock,986,Jose Cisnero,985,Taylor Hearn,983
+Craig Kimbrel,Cubs,Nik Turley,945,James Karinchak,910,Nick Anderson,904
+Blake Treinen,Dodgers,Justin Wilson,833,Tanner Rainey,829,Yohan Ramirez,826
+Walker Buehler,Dodgers,Tyler Matzek,946,Craig Stammen,833,Zach Eflin,827
+Ryan Helsley,Cardinals,Ian Kennedy,939,Josh Tomlin,800,Tyler Chatwood,798
+Zack Wheeler,Phillies,Austin Voth,902,Nick Margevicius,807,Wilmer Font,803
+Luis Patino,Padres,John King,960,Brandon Woodruff,958,Rony Garcia,952
+Robert Stock,Red Sox,Carlos Estevez,986,Bryan Garcia,980,Codi Heuer,975
+Jonathan Loaisiga,Yankees,Jeff Hoffman,906,Archie Bradley,898,Robbie Erlin,897
+Gerrit Cole,Yankees,Matt Harvey,968,Mitch Keller,964,Anthony DeSclafani,956
+Jimmy Cordero,White Sox,Vince Velasquez,904,Sam Coonrod,884,Kendall Graveman,881
+Michael Lorenzen,Reds,Jonathan Holder,904,Max Scherzer,893,Brandon Bielak,885
+Julian Merryweather,Blue Jays,Tarik Skubal,977,Brandon Woodruff,962,Jason Adam,961
+Jordan Romano,Blue Jays,Diego Castillo,973,Amir Garrett,969,Dan Altavilla,959
+Adrian Morejon,Padres,Taijuan Walker,934,Franklyn Kilome,915,Jordan Weems,912
+Jeurys Familia,Mets,Anthony Bass,936,Ryne Stanek,852,Frankie Montas,806
+Tanner Rainey,Nationals,Yohan Ramirez,992,Jairo Diaz,981,Tanner Scott,908
+Devin Williams,Brewers,Phillips Valdez,953,Tony Watson,913,Pedro Baez,876
+Sandy Alcantara,Marlins,Josh James,978,J.B. Wendelken,975,Antonio Senzatela,973
+Brandon Woodruff,Brewers,Tarik Skubal,962,Julian Merryweather,962,Luis Patino,958
+Tanner Scott,Orioles,John Curtiss,967,Joey Gerber,964,Taylor Rogers,957
+Daniel Hudson,Nationals,Enoli Paredes,945,Spencer Turnbull,941,Caleb Baragar,940
+Trevor May,Twins,Miguel Castro,982,Cal Quantrill,970,Kyle Cody,968
+Nate Pearson,Blue Jays,Anthony DeSclafani,971,Dylan Cease,956,Kyle Zimmer,953
+Pierce Johnson,Padres,Tyler Duffey,964,Joe Kelly,935,James Karinchak,903
+Nick Nelson,Yankees,Julian Merryweather,957,John Means,950,Jose Urquidy,949
+Josh James,Astros,Sandy Alcantara,978,Spencer Howard,970,Antonio Senzatela,966
+Jose Cisnero,Tigers,Kyle Funkhouser,986,Carlos Estevez,985,Jose Urena,983
+Genesis Cabrera,Cardinals,Jorge Lopez,966,Jose Berrios,959,Framber Valdez,958
+Ryan Brasier,Red Sox,Jake Diekman,960,Nate Jones,931,Taylor Widener,929
+Carlos Hernandez,Royals,Julio Urias,967,Adbert Alzolay,949,German Marquez,933
+Raisel Iglesias,Reds,Jarlin Garcia,971,Jeffrey Springs,946,John Schreiber,913
+Diego Castillo,Rays,Jordan Romano,973,Amir Garrett,940,Sam Selman,939
+Ty Buttrey,Angels,Jeff Hoffman,894,Jonathan Loaisiga,890,Robbie Erlin,878
+Liam Hendriks,Athletics,Alex Reyes,923,Enoli Paredes,905,Lance Lynn,902
+Corbin Burnes,Brewers,Aaron Civale,913,Zac Gallen,908,Kyle Hart,901
+Ryne Stanek,Marlins,Jeurys Familia,852,Rafael Dolis,849,Anthony Bass,848
+Tyler Kinley,Rockies,Robert Stephenson,966,Shaun Anderson,962,Sam Howard,944
+Nate Jones,Reds,Jake Diekman,968,Ryan Brasier,931,Huascar Ynoa,929
+Rico Garcia,Giants,Chris Paddack,966,Pablo Lopez,953,Luke Weaver,934
+Frankie Montas,Athletics,Rafael Dolis,942,Yonny Chirinos,888,Tanner Houck,881
+Enoli Paredes,Astros,Lance Lynn,970,Robert Gsellman,958,Spencer Turnbull,957
+Tejay Antone,Reds,Chad Kuhl,973,Lucas Sims,958,Clayton Kershaw,956
+Yohan Ramirez,Mariners,Tanner Rainey,992,Jairo Diaz,991,Tanner Scott,907
+German Marquez,Rockies,Nick Pivetta,969,Austin Gomber,967,Max Fried,965
+Hector Rondon,Diamondbacks,Kevin Ginkel,986,Aaron Slegers,946,Daniel Bard,941
+Matt Barnes,Red Sox,Grant Dayton,923,Tyler Glasnow,889,Framber Valdez,886
+A.J. Minter,Braves,Daniel Bard,895,Raisel Iglesias,892,Huascar Ynoa,886
+Kevin Ginkel,Diamondbacks,Hector Rondon,986,Aaron Slegers,932,Daniel Bard,921
+James Karinchak,Indians,Nik Turley,960,Craig Kimbrel,910,Pierce Johnson,903
+Trevor Gott,Giants,Sonny Gray,935,Dakota Hudson,931,Julio Urias,930
+Yu Darvish,Cubs,Josh Lindblom,855,Jake Odorizzi,800,Jeff Samardzija,791
+Jesus Luzardo,Athletics,Steven Brault,963,Brad Boxberger,962,David Peterson,952
+Lou Trivino,Athletics,Dustin May,968,Tyler Chatwood,946,James Paxton,934
+Hansel Robles,Angels,Chasen Shreve,937,Yonny Chirinos,874,Matt Shoemaker,847
+Rafael Montero,Rangers,Mychal Givens,951,Joely Rodriguez,945,Michael King,932
+Caleb Ferguson,Dodgers,Zack Britton,994,Gregory Soto,988,Richard Rodriguez,946
+Chad Green,Yankees,Craig Kimbrel,863,Nik Turley,821,Josh Staumont,805
+Thomas Hatch,Blue Jays,Cole Sulser,974,Luis Castillo,966,Reynaldo Lopez,962
+Yoan Lopez,Diamondbacks,Keury Mella,916,Oliver Perez,888,Taylor Williams,888
+Jose Urena,Marlins,Kyle Funkhouser,1000,Joe Jimenez,992,Jose Cisnero,983
+Ian Gibaut,Rangers,Tyler Alexander,892,Cody Reed,891,Adam Ottavino,890
+Connor Brogdon,Phillies,Dylan Floro,845,Jalen Beeks,794,Jacob Webb,765
+Jordan Weems,Athletics,J.A. Happ,934,Taijuan Walker,917,Adrian Morejon,912
+Kyle Funkhouser,Tigers,Jose Urena,1000,Joe Jimenez,996,Jose Cisnero,986
+Jacob Barnes,Angels,Ryan Tepera,945,Yusei Kikuchi,895,Dylan Covey,819
+Nick Anderson,Rays,Seth Elledge,987,Josh Staumont,940,Craig Kimbrel,904
+Garrett Richards,Padres,Heath Hembree,976,Dellin Betances,963,Brett Martin,963
+Keury Mella,Diamondbacks,Yoan Lopez,916,Stephen Tarpley,898,Oliver Perez,870
+Mike Clevinger,- - -,Joe Musgrove,944,Max Scherzer,922,Johan Oviedo,908
+Tony Gonsolin,Dodgers,Matt Shoemaker,956,Shun Yamaguchi,886,Taijuan Walker,880
+Jake Diekman,Athletics,Nate Jones,968,Ryan Brasier,960,Kevin Ginkel,907
+Jairo Diaz,Rockies,Yohan Ramirez,991,Tanner Rainey,981,John Curtiss,907
+Kevin Gausman,Giants,Hansel Robles,811,Yonny Chirinos,807,Chasen Shreve,787
+Blake Snell,Rays,John Gant,975,Sean Newcomb,971,Jose Urquidy,966
+Taylor Williams,- - -,Yoan Lopez,888,Jairo Diaz,874,Yohan Ramirez,864
+Kyle Finnegan,Nationals,Jeurys Familia,796,Anthony Bass,776,Stephen Tarpley,753
+Yusei Kikuchi,Mariners,Ryan Tepera,939,Jacob Barnes,895,Dylan Covey,895
+JoJo Romero,Phillies,Dillon Tate,996,Keynan Middleton,972,Trevor Rogers,971
+Justin Wilson,Mets,Marcus Walden,835,Blake Treinen,833,Aaron Loup,804
+Jesse Hahn,Royals,Caleb Thielbar,931,Brett Martin,874,Freddy Peralta,865
+Rowan Wick,Cubs,Drew Smyly,897,David Phelps,878,Tommy Hunter,842
+Taylor Hearn,Rangers,Carlos Estevez,983,Jose Cisnero,979,Dillon Tate,976
+Victor Gonzalez,Dodgers,Austin Brice,990,Edwin Diaz,972,Brad Keller,972
+Jake McGee,Dodgers,Zack Britton,891,Caleb Ferguson,891,Gregory Soto,888
+Cal Quantrill,- - -,Kyle Cody,982,Trevor May,970,Michael Pineda,966
+Anthony DeSclafani,Reds,Jonathan Brubaker,976,Kyle Zimmer,972,Nate Pearson,971
+Scott Barlow,Royals,Ryan Pressly,993,Phil Maton,935,Cameron Hill,925
+Wilmer Font,Blue Jays,Javy Guerra,966,J.A. Happ,897,Nick Margevicius,884
+Johan Oviedo,Cardinals,Zach Eflin,925,Mike Clevinger,908,Kyle Gibson,905
+Ryan Borucki,Blue Jays,Dylan Floro,894,Kolby Allard,847,Corey Oswalt,842
+Huascar Ynoa,Braves,Nate Jones,929,Jarlin Garcia,921,John Schreiber,914
+Zack Britton,Yankees,Caleb Ferguson,994,Gregory Soto,978,Richard Rodriguez,949
+Kendall Graveman,Mariners,Sam Coonrod,925,Luis Garcia,911,Zach Eflin,906
+Jason Adam,Cubs,Danny Duffy,973,Kyle Wright,966,Matt Harvey,965
+Dovydas Neverauskas,Pirates,Dean Kremer,949,Charlie Morton,926,Cody Ponce,925
+Wandy Peralta,Giants,Luis Perdomo,944,Pedro Baez,943,Justus Sheffield,904
+Yency Almonte,Rockies,Dennis Santana,979,Jaime Barria,977,Jorge Alcala,972
+Robert Stephenson,Reds,Tyler Kinley,966,Sam Howard,951,Shaun Anderson,928
+Anthony Bass,Blue Jays,Jeurys Familia,936,Ryne Stanek,848,Kwang-hyun Kim,818
+Amir Garrett,Reds,Dan Altavilla,974,Nick Goody,972,Jordan Romano,969
+Rafael Dolis,Blue Jays,Yonny Chirinos,952,Frankie Montas,942,Jordan Weems,857
+Max Scherzer,Nationals,Brandon Bielak,956,Luis Garcia,950,Humberto Castellanos,948
+Drew Pomeranz,Padres,Josh Staumont,937,Nick Anderson,888,Seth Elledge,887
+Mychal Givens,- - -,Michael King,973,Trevor Rogers,970,Bryan Garcia,967
+Adbert Alzolay,Cubs,Carlos Hernandez,949,Sonny Gray,946,Julio Urias,943
+Ryan Pressly,Astros,Scott Barlow,993,Phil Maton,933,Cameron Hill,927
+Joely Rodriguez,Rangers,Rafael Montero,945,Matt Foster,937,Cole Sulser,923
+Taylor Rogers,Twins,John Curtiss,990,Tanner Scott,957,Dan Altavilla,945
+Josh Hader,Brewers,Joey Gerber,982,Richard Rodriguez,975,Tanner Scott,953
+Duane Underwood Jr.,Cubs,Aaron Nola,978,Alex Wood,949,Jeff Hoffman,942
+Shaun Anderson,Giants,Jake Newberry,970,Tyler Kinley,962,Yency Almonte,959
+Evan Phillips,Orioles,Jose Cisnero,977,Joe Jimenez,977,Kyle Funkhouser,975
+J.B. Wendelken,Athletics,Antonio Senzatela,985,Sandy Alcantara,975,Robert Gsellman,968
+Taylor Widener,Diamondbacks,Ryan Brasier,929,Bryan Garcia,908,Michael King,906
+Emilio Pagan,Padres,Heath Hembree,957,Garrett Richards,953,Freddy Peralta,939
+Steven Matz,Mets,John Means,979,John Gant,967,Sean Newcomb,959
+Jeff Hoffman,Rockies,Duane Underwood Jr.,942,Aaron Nola,932,Alex Wood,920
+Bryan Garcia,Tigers,Michael King,981,Robert Stock,980,Taylor Hearn,974
+Tarik Skubal,Tigers,Julian Merryweather,977,Spencer Howard,974,Bryse Wilson,973
+Cody Reed,- - -,Adam Ottavino,971,Ian Gibaut,891,Asher Wojciechowski,861
+Yimi Garcia,Marlins,Aaron Loup,973,Jesse Chavez,956,T.J. Zeuch,941
+Felix Pena,Angels,Jose Berrios,987,Ljay Newsome,964,Genesis Cabrera,942
+Dillon Tate,Orioles,JoJo Romero,996,Taylor Hearn,976,Trevor Rogers,975
+Corey Knebel,Brewers,Tyler Glasnow,973,Framber Valdez,964,Jorge Lopez,963
+Franklyn Kilome,Mets,Adrian Morejon,915,Touki Toussaint,911,Taijuan Walker,868
+Taylor Clarke,Diamondbacks,Tyler Zuber,948,Sixto Sanchez,924,Ross Detwiler,910
+Luke Jackson,Braves,Mike Mayers,853,Matt Magill,842,Dellin Betances,828
+Colten Brewer,Red Sox,Brooks Raley,822,Aaron Civale,801,Zack Godley,784
+Dennis Santana,Dodgers,Yency Almonte,979,Jaime Barria,966,Shaun Anderson,950
+Burch Smith,Athletics,Adrian Houser,942,Keegan Akin,930,Brandon Woodruff,927
+Alex Colome,White Sox,Kenley Jansen,829,Josh Osich,795,Shawn Armstrong,782
+Pedro Baez,Dodgers,Wandy Peralta,943,Trevor Richards,933,David Hale,933
+Antonio Senzatela,Rockies,J.B. Wendelken,985,Sandy Alcantara,973,Matt Harvey,967
+Tyler Matzek,Braves,Walker Buehler,946,Freddy Peralta,842,Zach Eflin,835
+Kyle Cody,Rangers,Cal Quantrill,982,Michael Pineda,982,Trevor May,968
+Joe Jimenez,Tigers,Kyle Funkhouser,996,Jose Urena,992,Jose Cisnero,979
+Kyle Wright,Braves,Logan Allen,983,Derek Holland,975,Jon Gray,969
+Jose Berrios,Twins,Felix Pena,987,Genesis Cabrera,959,Ljay Newsome,957
+Tyler Chatwood,Cubs,Dustin May,947,Lou Trivino,946,Kolby Allard,941
+Nik Turley,Pirates,James Karinchak,960,Craig Kimbrel,945,Seth Elledge,881
+Julio Urias,Dodgers,Carlos Hernandez,967,Seth Lugo,951,Matt Strahm,951
+Mike Mayers,Angels,Luke Jackson,853,Marcus Walden,823,Tyler Matzek,810
+Reynaldo Lopez,White Sox,Justus Sheffield,967,JoJo Romero,965,Trevor May,962
+Shane Bieber,Indians,Joe Musgrove,924,Aaron Civale,920,Zac Gallen,918
+Archie Bradley,- - -,Ivan Nova,956,Jorge Lopez,947,Jose Quintana,940
+Chris Paddack,Padres,Pablo Lopez,979,Rico Garcia,966,Luke Weaver,955
+Tyler Zuber,Royals,Taylor Clarke,948,Ross Detwiler,919,Jimmy Herget,915
+Spencer Turnbull,Tigers,Robert Gsellman,981,Michael Fulmer,980,Bryse Wilson,976
+Kyle Zimmer,Royals,Jonathan Brubaker,993,Lucas Sims,989,Chad Kuhl,977
+Ian Anderson,Braves,Alex Cobb,969,Buck Farmer,964,Kris Bubic,956
+Spencer Howard,Phillies,Tarik Skubal,974,Chi Chi Gonzalez,971,Josh James,970
+Chris Martin,Braves,Dylan Covey,848,Yusei Kikuchi,846,Ryan Tepera,817
+David Phelps,- - -,Tommy Hunter,958,Drew Smyly,932,Rowan Wick,878
+Anthony Misiewicz,Mariners,Josh Osich,873,Shawn Armstrong,844,Brandon Workman,836
+Logan Allen,Indians,Kyle Wright,983,Derek Holland,975,Jon Gray,970
+Luke Weaver,Diamondbacks,Pablo Lopez,979,Carson Fulmer,969,Chris Paddack,955
+Matt Harvey,Royals,Triston McKenzie,985,Kyle Wright,969,Wes Benjamin,968
+Junior Guerra,Diamondbacks,Jeremy Jeffress,791,Nick Margevicius,768,Blake Parker,738
+Brett Martin,Rangers,Heath Hembree,972,Dellin Betances,965,Garrett Richards,963
+Jon Gray,Rockies,Caleb Smith,977,Trevor Williams,972,Logan Allen,970
+John Curtiss,Rays,Taylor Rogers,990,Tanner Scott,967,Joey Gerber,950
+Bryse Wilson,Braves,Michael Fulmer,981,Spencer Turnbull,976,Chi Chi Gonzalez,975
+Lucas Giolito,White Sox,Daniel Norris,964,Brad Boxberger,955,Jesus Luzardo,935
+Hector Neris,Phillies,Yoshihisa Hirano,872,Oliver Drake,804,Chasen Shreve,802
+Luis Perdomo,Padres,Justus Sheffield,964,Reynaldo Lopez,952,Randy Dobnak,950
+Luis Garcia,Astros,Brandon Bielak,951,Kyle Gibson,951,Max Scherzer,950
+Heath Hembree,- - -,Garrett Richards,976,Brett Martin,972,Emilio Pagan,957
+Ryan Tepera,Cubs,Jacob Barnes,945,Yusei Kikuchi,939,Dylan Covey,877
+Lucas Sims,Reds,Kyle Zimmer,989,Jonathan Brubaker,987,Chad Kuhl,980
+Mitch Keller,Pirates,Dakota Hudson,984,Max Fried,972,Conner Menez,972
+Touki Toussaint,Braves,Franklyn Kilome,911,Adrian Morejon,884,Taijuan Walker,873
+Cy Sneed,Astros,Ryan Helsley,797,Ian Kennedy,787,Josh A. Smith,786
+Chad Kuhl,Pirates,Lucas Sims,980,Kyle Zimmer,977,Jonathan Brubaker,974
+Tyler Mahle,Reds,J.A. Happ,919,Taijuan Walker,899,Jordan Weems,899
+Caleb Baragar,Giants,Lance Lynn,953,Drew Rasmussen,945,Daniel Hudson,940
+John Gant,Cardinals,John Means,991,Jose Urquidy,981,Blake Snell,975
+Zach Eflin,Phillies,Craig Stammen,945,Tanner Roark,932,Johan Oviedo,925
+Matt Foster,White Sox,David Hale,965,Cole Sulser,948,Trevor Richards,943
+John Means,Orioles,John Gant,991,Steven Matz,979,Jose Urquidy,971
+Drew Smyly,Giants,David Phelps,932,Rowan Wick,897,Tommy Hunter,891
+Lance McCullers Jr.,Astros,Jordan Montgomery,896,Charlie Morton,877,Merrill Kelly,870
+Cole Sulser,Orioles,Thomas Hatch,974,David Hale,963,Trevor Rogers,958
+Jarlin Garcia,Giants,Raisel Iglesias,971,John Schreiber,949,Jeffrey Springs,948
+Blake Taylor,Astros,Ryan Brasier,909,Taylor Widener,904,Jake Diekman,886
+Vince Velasquez,Phillies,Jimmy Cordero,904,Tanner Roark,895,Jonathan Holder,892
+Jorge Lopez,- - -,Framber Valdez,984,Jose Quintana,981,Genesis Cabrera,966
+Jonathan Brubaker,Pirates,Kyle Zimmer,993,Lucas Sims,987,Anthony DeSclafani,976
+Pablo Lopez,Marlins,Chris Paddack,979,Luke Weaver,979,Rico Garcia,953
+Robbie Ray,- - -,Jack Flaherty,980,Lucas Sims,974,Jonathan Brubaker,971
+Giovanny Gallegos,Cardinals,Paul Fry,975,Jake Newberry,975,Geoff Hartlieb,972
+Austin Brice,Red Sox,Victor Gonzalez,990,Brad Keller,984,Ryan Thompson,975
+Anthony Kay,Blue Jays,Jordan Montgomery,884,James Paxton,876,Carson Fulmer,871
+Shawn Armstrong,Orioles,Josh Osich,963,Kyle Ryan,916,Tommy Hunter,914
+Casey Mize,Tigers,Mike Fiers,933,Nathan Eovaldi,805,Dylan Covey,762
+Luis Cessa,Yankees,Adam Morgan,953,Jacob deGrom,884,Tejay Antone,872
+Ian Kennedy,Royals,Ryan Helsley,939,Tyler Chatwood,807,Kolby Allard,803
+Jacob Webb,Braves,Nick Wittgren,933,Noe Ramirez,886,Jeffrey Springs,884
+Dellin Betances,Mets,Brett Martin,965,Garrett Richards,963,Will Smith,963
+Geoff Hartlieb,Pirates,Paul Fry,996,Cody Stashak,974,Giovanny Gallegos,972
+Michael Wacha,Mets,Tyler Anderson,939,Martin Perez,927,Corey Oswalt,914
+Trevor Rogers,Marlins,Dillon Tate,975,Andrew Heaney,975,JoJo Romero,971
+Jack Flaherty,Cardinals,Robbie Ray,980,Robert Dugger,978,Conner Menez,972
+Carlos Carrasco,Indians,Johnny Cueto,934,Kyle Gibson,926,Brett Anderson,915
+Robert Gsellman,Mets,Michael Fulmer,982,Spencer Turnbull,981,Bryse Wilson,974
+Phil Maton,Indians,Cameron Hill,974,Scott Barlow,935,Ryan Pressly,933
+Trevor Bauer,Reds,Jordan Yamamoto,944,Eric Lauer,940,Adam Plutko,919
+Adam Ottavino,Yankees,Cody Reed,971,Ian Gibaut,890,Asher Wojciechowski,886
+Lance Lynn,Rangers,Enoli Paredes,970,Robert Gsellman,963,Caleb Baragar,953
+Jake Newberry,Royals,Giovanny Gallegos,975,Shaun Anderson,970,Jakob Junis,966
+Erick Fedde,Nationals,Shane Greene,903,T.J. Zeuch,903,Richard Bleier,890
+Dylan Floro,Dodgers,Ryan Borucki,894,Connor Brogdon,845,Michael Wacha,827
+Adrian Houser,Brewers,Keegan Akin,968,Bryse Wilson,964,Tarik Skubal,962
+Sean Newcomb,Braves,Jose Urquidy,979,John Gant,975,Blake Snell,971
+Yonny Chirinos,Rays,Rafael Dolis,952,Frankie Montas,888,Hansel Robles,874
+A.J. Cole,Blue Jays,Carlos Martinez,860,Jace Fry,815,Michael Lorenzen,815
+Seth Lugo,Mets,Matt Strahm,998,Humberto Mejia,984,Triston McKenzie,980
+Walker Lockett,- - -,Alex Young,972,Chase Anderson,959,Merrill Kelly,948
+Riley Smith,Diamondbacks,Dakota Hudson,981,Mitch Keller,965,Jack Flaherty,956
+Brady Singer,Royals,Brad Keller,992,Elieser Hernandez,981,Cody Stashak,978
+Joey Gerber,Mariners,Josh Hader,982,Tanner Scott,964,Richard Rodriguez,959
+Rony Garcia,Tigers,Michael Fulmer,980,Spencer Turnbull,974,Bryse Wilson,973
+Travis Lakins,Orioles,Cody Ponce,894,Jon Lester,890,Tyler Chatwood,882
+Seth Elledge,Cardinals,Nick Anderson,987,Josh Staumont,929,Craig Kimbrel,898
+Cody Ponce,Pirates,Merrill Kelly,957,Dean Kremer,949,Colin Rea,944
+Zac Gallen,Diamondbacks,Yusmeiro Petit,922,Brett Anderson,922,Brandon Bielak,919
+Jeremy Jeffress,Cubs,Blake Parker,866,Junior Guerra,791,Nick Tropeano,780
+Charlie Morton,Rays,Dean Kremer,940,Daniel Ponce de Leon,933,Dovydas Neverauskas,926
+Chris Stratton,Pirates,Kyle Wright,968,Logan Allen,966,Wes Benjamin,965
+Brandon Bielak,Astros,Max Scherzer,956,Daniel Mengden,956,Humberto Castellanos,952
+Buck Farmer,Tigers,Kris Bubic,976,Alex Cobb,975,Ian Anderson,964
+Daniel Ponce de Leon,Cardinals,Dean Kremer,939,James Paxton,936,Colin Rea,936
+Taijuan Walker,- - -,Adrian Morejon,934,Jordan Weems,917,Tyler Mahle,899
+Jalen Beeks,Rays,Zach Davies,858,Tyler Anderson,852,Michael Wacha,829
+Michael Fulmer,Tigers,Dane Dunning,983,Robert Gsellman,982,Bryse Wilson,981
+Jose Urquidy,Astros,John Gant,981,Sean Newcomb,979,John Means,971
+Framber Valdez,Astros,Jorge Lopez,984,Jose Quintana,978,Corey Knebel,964
+Michael King,Yankees,Bryan Garcia,981,Mychal Givens,973,Trevor Rogers,966
+Scott Alexander,Dodgers,Tim Hill,893,Keury Mella,862,Tanner Rainey,823
+John King,Rangers,Rony Garcia,971,Luis Patino,960,Spencer Howard,958
+Jimmy Herget,Rangers,Ross Detwiler,944,Tyler Zuber,915,Patrick Corbin,900
+Max Fried,Braves,Nick Pivetta,983,Austin Gomber,981,Mitch Keller,972
+Freddy Peralta,Brewers,Heath Hembree,946,Emilio Pagan,939,Brett Martin,921
+Sonny Gray,Reds,Austin Gomber,965,German Marquez,962,Nick Pivetta,961
+Jake Odorizzi,Twins,Josh Lindblom,893,Jeff Samardzija,847,Masahiro Tanaka,802
+Dean Kremer,Orioles,Cody Ponce,949,Dovydas Neverauskas,949,Charlie Morton,940
+Greg Holland,Royals,Tyler Zuber,910,Madison Bumgarner,903,Clayton Kershaw,887
+Colin Rea,Cubs,James Paxton,968,Cody Ponce,944,Merrill Kelly,943
+Richard Rodriguez,Pirates,Josh Hader,975,Joey Gerber,959,Zack Britton,949
+Nick Wittgren,Indians,Jacob Webb,933,Jared Hughes,925,Daniel Bard,898
+Evan Marshall,White Sox,Ian Anderson,872,Alex Cobb,870,Ljay Newsome,861
+Chris Bassitt,Athletics,Adam Plutko,947,Eric Lauer,935,Brandon Bielak,931
+Dakota Hudson,Cardinals,Mitch Keller,984,Riley Smith,981,Conner Menez,969
+Casey Sadler,- - -,Nick Pivetta,906,Griffin Canning,901,Sonny Gray,893
+Matt Strahm,Padres,Seth Lugo,998,Humberto Mejia,981,Triston McKenzie,978
+Jake Woodford,Cardinals,Robert Dugger,974,Conner Menez,970,Max Fried,970
+Carlos Martinez,Cardinals,Jonathan Holder,874,A.J. Cole,860,Vince Velasquez,852
+Zach Plesac,Indians,Patrick Sandoval,964,Dylan Bundy,956,Kyle Freeland,942
+Triston McKenzie,Indians,Matt Harvey,985,Seth Lugo,980,Humberto Mejia,980
+Paul Fry,Orioles,Geoff Hartlieb,996,Giovanny Gallegos,975,Cody Stashak,975
+Nick Pivetta,- - -,Max Fried,983,Austin Gomber,978,German Marquez,969
+Patrick Sandoval,Angels,Steven Brault,965,Zach Plesac,964,Mike Minor,963
+Griffin Canning,Angels,Ross Stripling,972,Brady Lail,942,Derek Holland,941
+David Hale,- - -,Trevor Richards,979,Matt Foster,965,Cole Sulser,963
+Humberto Mejia,Marlins,Seth Lugo,984,Matt Strahm,981,Austin Gomber,980
+Brad Keller,Royals,Brady Singer,992,Austin Brice,984,Cody Stashak,979
+Dan Winkler,Cubs,Erasmo Ramirez,872,Jesse Chavez,853,Chris Mazza,853
+Logan Webb,Giants,Tyler Alexander,898,Ian Gibaut,889,Sean Manaea,850
+Daniel Norris,Tigers,Lucas Giolito,964,Steven Brault,957,Brad Boxberger,957
+Tommy Hunter,Phillies,David Phelps,958,Josh Osich,916,Shawn Armstrong,914
+Marcus Walden,Red Sox,Kenley Jansen,880,Justin Wilson,835,Chris Mazza,835
+Tyler Duffey,Twins,Pierce Johnson,964,Joe Kelly,934,James Karinchak,893
+Will Smith,Braves,Dellin Betances,963,Brad Hand,957,Garrett Richards,934
+Brandon Workman,- - -,Anthony Misiewicz,836,Rowan Wick,803,Josh Tomlin,777
+Jordan Montgomery,Yankees,Gio Gonzalez,947,Carson Fulmer,924,Chase Anderson,919
+Brad Boxberger,Marlins,Steven Brault,967,Jesus Luzardo,962,Daniel Norris,957
+Alex Cobb,Orioles,Buck Farmer,975,Ian Anderson,969,Kris Bubic,959
+Austin Gomber,Cardinals,Max Fried,981,Humberto Mejia,980,Nick Pivetta,978
+Carson Fulmer,- - -,Luke Weaver,969,Jacob Waguespack,961,Pablo Lopez,952
+Chase Anderson,Blue Jays,Walker Lockett,959,Hyun-Jin Ryu,952,Merrill Kelly,940
+Joe Musgrove,Pirates,Mike Clevinger,944,Shane Bieber,924,Max Scherzer,918
+Joakim Soria,Athletics,Ross Detwiler,885,Liam Hendriks,883,Aaron Slegers,865
+Josh Osich,- - -,Shawn Armstrong,963,Tommy Hunter,916,Kyle Ryan,893
+Ryan Castellani,Rockies,Danny Duffy,981,Brady Lail,978,Derek Holland,978
+Jacob Waguespack,Blue Jays,Jake Arrieta,971,Carson Fulmer,961,James Paxton,949
+Kenley Jansen,Dodgers,Marcus Walden,880,Dan Winkler,835,Alex Colome,829
+Aaron Nola,Phillies,Duane Underwood Jr.,978,Alex Wood,974,Jeff Hoffman,932
+Derek Holland,Pirates,Ryan Castellani,978,Logan Allen,975,Kyle Wright,975
+Kyle Gibson,Rangers,Luis Garcia,951,Max Scherzer,943,Humberto Castellanos,938
+Stefan Crichton,Diamondbacks,Kevin Ginkel,900,Hector Rondon,899,Aaron Slegers,894
+Cam Bedrosian,Angels,Tanner Houck,942,Frankie Montas,845,Aroldis Chapman,828
+Cristian Javier,Astros,Michael Fulmer,977,Robert Gsellman,971,Spencer Turnbull,970
+Chi Chi Gonzalez,Rockies,Dane Dunning,983,Bryse Wilson,975,Tarik Skubal,973
+Cameron Hill,Indians,Phil Maton,974,Ryan Pressly,927,Scott Barlow,925
+Jordan Lyles,Rangers,Joe Musgrove,912,Tanner Roark,909,Shane Bieber,908
+Ivan Nova,Tigers,Archie Bradley,956,Jose Berrios,951,Jose Quintana,951
+Danny Duffy,Royals,Ryan Castellani,981,Jason Adam,973,Wes Benjamin,969
+Phillips Valdez,Red Sox,Devin Williams,953,Tony Watson,951,Pedro Baez,899
+Craig Stammen,Padres,Zach Eflin,945,Eric Lauer,923,Chris Bassitt,910
+Corey Oswalt,Mets,Jake Arrieta,968,Kolby Allard,942,Jacob Waguespack,935
+Dylan Covey,Red Sox,Yusei Kikuchi,895,Ryan Tepera,877,Chris Martin,848
+T.J. Zeuch,Blue Jays,Yimi Garcia,941,Aaron Loup,941,Jesse Chavez,937
+Masahiro Tanaka,Yankees,Josh Lindblom,841,Jake Odorizzi,802,Jeff Samardzija,768
+James Paxton,Yankees,Colin Rea,968,Jacob Waguespack,949,Daniel Ponce de Leon,936
+Jaime Barria,Angels,Yency Almonte,977,Dennis Santana,966,Michael Pineda,959
+Jonathan Holder,Yankees,Michael Lorenzen,904,Sean Manaea,893,Vince Velasquez,892
+Mike Soroka,Braves,Taylor Hearn,973,Andrew Heaney,971,Dillon Tate,969
+Jeffrey Springs,Red Sox,Jarlin Garcia,948,Raisel Iglesias,946,John Schreiber,911
+Michael Pineda,Twins,Kyle Cody,982,Randy Dobnak,971,Cal Quantrill,966
+Caleb Smith,- - -,Trevor Williams,995,Matthew Boyd,984,Jon Gray,977
+Steven Brault,Pirates,Mike Minor,977,David Peterson,972,Brad Boxberger,967
+Chris Mazza,Red Sox,Asher Wojciechowski,949,Jesse Chavez,925,Yimi Garcia,907
+Aaron Loup,Rays,Yimi Garcia,973,Jesse Chavez,971,Erasmo Ramirez,954
+David Peterson,Mets,Josh Fleming,975,Steven Brault,972,Matthew Boyd,972
+Sam Howard,Pirates,Robert Stephenson,951,Tyler Kinley,944,Shaun Anderson,941
+Shane Greene,Braves,Erick Fedde,903,Tyler Alexander,891,Asher Wojciechowski,887
+Tanner Houck,Red Sox,Cam Bedrosian,942,Aroldis Chapman,886,Frankie Montas,881
+Matt Shoemaker,Blue Jays,Tony Gonsolin,956,Shun Yamaguchi,930,Taijuan Walker,850
+Jake Arrieta,Phillies,Jacob Waguespack,971,Corey Oswalt,968,Kolby Allard,949
+Martin Perez,Red Sox,Hyun-Jin Ryu,950,Michael Wacha,927,Chase Anderson,924
+Merrill Kelly,Diamondbacks,Cody Ponce,957,Walker Lockett,948,Marco Gonzales,945
+Austin Voth,Nationals,Zack Wheeler,902,Nick Margevicius,810,Wilmer Font,784
+Robert Dugger,Marlins,Conner Menez,993,Jack Flaherty,978,Jake Woodford,974
+Deivi Garcia,Yankees,Keegan Akin,981,Alec Mills,978,Sean Newcomb,965
+Justus Sheffield,Mariners,Randy Dobnak,988,Reynaldo Lopez,967,Luis Perdomo,964
+Dane Dunning,White Sox,Chi Chi Gonzalez,983,Michael Fulmer,983,Bryse Wilson,973
+Matt Wisler,Twins,Diego Castillo,875,Andrew Miller,849,Sam Selman,843
+Cody Stashak,Twins,Brad Keller,979,Brady Singer,978,Paul Fry,975
+Kyle Freeland,Rockies,Trevor Cahill,942,Zach Plesac,942,Dylan Bundy,940
+Keegan Akin,Orioles,Deivi Garcia,981,Adrian Houser,968,Alec Mills,967
+Matt Magill,Mariners,Scott Barlow,894,Ryan Pressly,893,Dellin Betances,874
+Conner Menez,Giants,Robert Dugger,993,Jack Flaherty,972,Mitch Keller,972
+Matt Andriese,Angels,Tommy Milone,928,Devin Smeltzer,922,Lucas Giolito,918
+Javy Guerra,Nationals,Wilmer Font,966,J.A. Happ,927,Nick Margevicius,899
+Aaron Civale,Indians,Shane Bieber,920,Corbin Burnes,913,Zac Gallen,913
+Matthew Boyd,Tigers,Caleb Smith,984,Trevor Williams,979,David Peterson,972
+Mark Melancon,Braves,Josh Tomlin,771,Brandon Workman,757,Wander Suero,740
+Ross Stripling,- - -,Griffin Canning,972,Brady Lail,964,Ryan Castellani,954
+Chasen Shreve,Mets,Hansel Robles,937,Shun Yamaguchi,859,Matt Shoemaker,833
+Randy Dobnak,Twins,Justus Sheffield,988,Michael Pineda,971,Kyle Cody,967
+Eric Lauer,Brewers,Daniel Mengden,947,Trevor Bauer,940,Chris Bassitt,935
+Clayton Kershaw,Dodgers,Chad Kuhl,960,Tejay Antone,956,Lucas Sims,949
+Nick Goody,Rangers,Sam Selman,993,Andrew Miller,983,Amir Garrett,972
+Kolby Allard,Rangers,Jon Lester,965,Jake Arrieta,949,Marco Gonzales,944
+Adam Morgan,Phillies,Luis Cessa,953,Zach Plesac,910,Lewis Thorpe,907
+Andrew Heaney,Angels,Trevor Rogers,975,T.J. McFarland,973,Dillon Tate,973
+Ross Detwiler,White Sox,Jimmy Herget,944,Tyler Zuber,919,Taylor Clarke,910
+Kris Bubic,Royals,Buck Farmer,976,Kyle Hendricks,961,Alex Cobb,959
+Ljay Newsome,Mariners,Felix Pena,964,Jose Berrios,957,Ian Anderson,945
+Brad Hand,Indians,Will Smith,957,Dellin Betances,924,Dakota Bacus,920
+Jared Hughes,Mets,Aaron Slegers,965,Daniel Bard,939,Nick Wittgren,925
+Kenta Maeda,Twins,Carlos Carrasco,892,Johnny Cueto,851,Kyle Gibson,847
+Jose Quintana,Cubs,Jorge Lopez,981,Framber Valdez,978,Corey Knebel,953
+Elieser Hernandez,Marlins,Brady Singer,981,Brad Keller,977,Ryan Thompson,972
+Ryan Thompson,Rays,Austin Brice,975,Brad Keller,974,Elieser Hernandez,972
+Brandon Kintzler,Marlins,Nick Wittgren,863,Jared Hughes,856,Aaron Slegers,854
+Kyle McGowin,Nationals,Robert Stephenson,897,Sam Howard,890,Tyler Kinley,877
+Johnny Cueto,Giants,Brett Anderson,974,Sean Manaea,941,Nick Ramirez,936
+Oliver Drake,Rays,Hector Neris,804,Chasen Shreve,782,Hansel Robles,748
+Trevor Williams,Pirates,Caleb Smith,995,Rick Porcello,981,Matthew Boyd,979
+Justin Dunn,Mariners,Alex Reyes,920,Austin Gomber,906,Max Fried,901
+Aaron Slegers,Rays,Jared Hughes,965,Hector Rondon,946,Kevin Ginkel,932
+Alex Wood,Dodgers,Aaron Nola,974,Duane Underwood Jr.,949,Robbie Erlin,937
+Sam Selman,Giants,Andrew Miller,996,Nick Goody,993,Amir Garrett,961
+Adam Plutko,Indians,Chris Bassitt,947,Eric Lauer,921,Trevor Bauer,919
+Nick Tropeano,Pirates,Jeremy Jeffress,780,Tyler Clippard,751,Touki Toussaint,745
+Jesse Chavez,Rangers,Aaron Loup,971,Yimi Garcia,956,Erasmo Ramirez,945
+Jakob Junis,Royals,Steve Cishek,974,Paul Fry,967,Cody Stashak,967
+Stephen Tarpley,Marlins,Oliver Perez,927,Keury Mella,898,Yoan Lopez,860
+Wes Benjamin,Rangers,Derek Holland,973,Triston McKenzie,972,Danny Duffy,969
+Asher Wojciechowski,Orioles,Chris Mazza,949,T.J. Zeuch,934,Jesse Chavez,930
+Alex Young,Diamondbacks,Walker Lockett,972,Merrill Kelly,942,Chase Anderson,937
+Trevor Cahill,Giants,Kyle Freeland,942,Ross Stripling,918,Zack Greinke,914
+J.A. Happ,Yankees,Jordan Weems,934,Javy Guerra,927,Tyler Mahle,919
+Shun Yamaguchi,Blue Jays,Matt Shoemaker,930,Tony Gonsolin,886,Chasen Shreve,859
+Dakota Bacus,Nationals,Will Smith,922,Brad Hand,920,Dellin Betances,880
+Tanner Roark,Blue Jays,Humberto Castellanos,952,Daniel Mengden,949,Luis Garcia,940
+Blake Parker,Phillies,Jeremy Jeffress,866,Hector Neris,789,Oliver Drake,746
+Tim Hill,Padres,Scott Alexander,893,Jake McGee,888,Zack Britton,879
+Jeff Samardzija,Giants,Josh Lindblom,853,Jake Odorizzi,847,Yusei Kikuchi,797
+Mike Minor,- - -,Steven Brault,977,David Peterson,967,Matthew Boyd,965
+Tyler Alexander,Tigers,Asher Wojciechowski,919,T.J. Zeuch,908,Yimi Garcia,907
+Grant Dayton,Braves,Matt Barnes,923,Corey Knebel,897,Framber Valdez,888
+Josh Fleming,Rays,Rick Porcello,977,David Peterson,975,Trevor Williams,966
+Trevor Richards,Rays,David Hale,979,Daniel Castano,954,Cole Sulser,946
+Erasmo Ramirez,Mets,Aaron Loup,954,Jesse Chavez,945,Yimi Garcia,935
+Sean Manaea,Athletics,Johnny Cueto,941,Ryan Weber,928,Brett Anderson,927
+Rick Porcello,Mets,Trevor Williams,981,Josh Fleming,977,Caleb Smith,974
+Steve Cishek,White Sox,Jakob Junis,974,Giovanny Gallegos,968,Jake Newberry,964
+Brad Brach,Mets,Dallas Keuchel,962,Ryan Yarbrough,910,Erasmo Ramirez,910
+Josh A. Smith,Marlins,Aaron Civale,889,Shane Bieber,870,Jordan Yamamoto,853
+Andrew Miller,Cardinals,Sam Selman,996,Nick Goody,983,Amir Garrett,950
+Tyler Anderson,Giants,Zach Davies,939,Michael Wacha,939,Luke Weaver,926
+Patrick Corbin,Nationals,Rick Porcello,937,Nate Pearson,926,Josh Fleming,925
+Wade Miley,Reds,Wade LeBlanc,861,Brooks Raley,854,Aaron Civale,826
+Dylan Bundy,Angels,Patrick Sandoval,960,Zach Plesac,956,Derek Holland,955
+Brooks Raley,- - -,Aaron Civale,886,Corbin Burnes,878,Wade Miley,854
+Tyler Webb,Cardinals,Cole Sulser,956,Trevor Rogers,954,T.J. McFarland,952
+Daniel Mengden,Athletics,Humberto Castellanos,987,Ryan Weber,962,Brandon Bielak,956
+Josh Lindblom,Brewers,Jake Odorizzi,893,Yu Darvish,855,Jeff Samardzija,853
+Brady Lail,- - -,Ryan Castellani,978,Ross Stripling,964,Danny Duffy,962
+Wander Suero,Nationals,Josh Tomlin,755,Mark Melancon,740,Anthony Misiewicz,702
+Nick Margevicius,Mariners,Javy Guerra,899,Kwang-hyun Kim,898,Wilmer Font,884
+Alec Mills,Cubs,Deivi Garcia,978,Keegan Akin,967,Danny Duffy,953
+Humberto Castellanos,Astros,Daniel Mengden,987,Ryan Weber,970,Brandon Bielak,952
+Oliver Perez,Indians,Stephen Tarpley,927,Yoan Lopez,888,Keury Mella,870
+Yoshihisa Hirano,Mariners,Hector Neris,872,Chasen Shreve,788,Oliver Drake,741
+Kwang-hyun Kim,Cardinals,Nick Margevicius,898,Tyler Mahle,870,Taijuan Walker,860
+Gio Gonzalez,White Sox,Jordan Montgomery,947,Rico Garcia,915,Pablo Lopez,906
+Tony Watson,Giants,Phillips Valdez,951,Alex Claudio,920,Devin Williams,913
+Jace Fry,White Sox,Madison Bumgarner,898,Greg Holland,883,Tyler Zuber,882
+Jordan Yamamoto,Marlins,Trevor Bauer,944,Eric Lauer,920,Joe Musgrove,903
+Caleb Thielbar,Twins,Jesse Hahn,931,Brett Martin,906,Freddy Peralta,891
+Brett Anderson,Brewers,Johnny Cueto,974,Brandon Bielak,936,Ryan Weber,935
+John Schreiber,Tigers,Jarlin Garcia,949,Huascar Ynoa,914,Raisel Iglesias,913
+Zack Godley,Red Sox,Josh Tomlin,861,Travis Lakins,848,Adam Wainwright,838
+Lewis Thorpe,Twins,Trevor Williams,973,Caleb Smith,968,Rick Porcello,965
+Hyun-Jin Ryu,Blue Jays,Chase Anderson,952,Martin Perez,950,Walker Lockett,925
+Nick Ramirez,Tigers,Johnny Cueto,936,Brett Anderson,931,Sean Manaea,902
+Anibal Sanchez,Nationals,Wade LeBlanc,888,Nick Ramirez,880,Kyle Hart,850
+Mike Kickham,Red Sox,Jace Fry,856,Madison Bumgarner,838,Greg Holland,821
+Robbie Erlin,- - -,Alex Wood,937,Aaron Nola,912,Jeff Hoffman,905
+Nick Vincent,Marlins,Kolby Allard,934,Jon Lester,925,Corey Oswalt,910
+Adam Wainwright,Cardinals,Dovydas Neverauskas,921,Cody Ponce,901,Dean Kremer,899
+Adam Kolarek,Dodgers,Michael King,883,Rafael Montero,879,Trevor Rosenthal,878
+Daniel Castano,Marlins,Trevor Richards,954,Justus Sheffield,948,Reynaldo Lopez,947
+Jon Lester,Cubs,Kolby Allard,965,Marco Gonzales,958,Nick Vincent,925
+Kyle Hart,Red Sox,Yusmeiro Petit,965,Zac Gallen,904,Chris Bassitt,901
+Tyler Clippard,Twins,Nick Tropeano,751,Josh Lindblom,737,Jake Odorizzi,733
+Julio Teheran,Angels,Dane Dunning,970,Chi Chi Gonzalez,962,Michael Fulmer,950
+Richard Bleier,- - -,Erick Fedde,890,Shane Greene,865,Aaron Slegers,822
+Noe Ramirez,Angels,Jacob Webb,886,A.J. Minter,881,Jeffrey Springs,877
+Ryan Weber,Red Sox,Humberto Castellanos,970,Daniel Mengden,962,Luis Garcia,945
+Zach Davies,Padres,Tyler Anderson,939,Hyun-Jin Ryu,899,Michael Wacha,899
+T.J. McFarland,Athletics,Andrew Heaney,973,Mike Soroka,953,Tyler Webb,952
+Ryne Harper,Nationals,Matt Barnes,716,James Karinchak,705,Grant Dayton,694
+Madison Bumgarner,Diamondbacks,Greg Holland,903,Jace Fry,898,Clayton Kershaw,897
+James Hoyt,Marlins,Anthony Bass,816,Ryne Stanek,759,Cam Bedrosian,755
+Marco Gonzales,Mariners,Jon Lester,958,Merrill Kelly,945,Kolby Allard,944
+Josh Tomlin,Braves,Travis Lakins,864,Zack Godley,861,Anthony Misiewicz,832
+Yusmeiro Petit,Athletics,Kyle Hart,965,Zac Gallen,922,Adam Plutko,910
+Mike Fiers,Athletics,Casey Mize,933,Nathan Eovaldi,793,Dylan Covey,772
+Hoby Milner,Angels,Jakob Junis,959,Cody Stashak,958,Steve Cishek,955
+Kyle Ryan,Cubs,Shawn Armstrong,916,Tommy Hunter,893,Josh Osich,893
+Eric Yardley,Brewers,Ryan Thompson,961,Elieser Hernandez,947,Austin Brice,936
+Rich Hill,Twins,Franklyn Kilome,762,Nathan Eovaldi,730,Drew Smyly,730
+Devin Smeltzer,Twins,Tommy Milone,923,Matt Andriese,922,Trevor Cahill,913
+Kyle Hendricks,Cubs,Kris Bubic,961,Buck Farmer,934,Alex Cobb,928
+Ryan Yarbrough,Rays,Dallas Keuchel,934,Brad Brach,910,Wade LeBlanc,839
+Dallas Keuchel,White Sox,Brad Brach,962,Ryan Yarbrough,934,Tyler Alexander,880
+Zack Greinke,Astros,Brady Lail,947,Dylan Bundy,945,Tom Eshelman,931
+Wade LeBlanc,Orioles,Anibal Sanchez,888,Nick Ramirez,878,Yusmeiro Petit,871
+Tom Eshelman,Orioles,Brady Lail,940,Wes Benjamin,938,Derek Holland,933
+Tommy Milone,- - -,Matt Andriese,928,Devin Smeltzer,923,Lucas Giolito,907
+Darren O'Day,Braves,Adam Cimber,966,Tyler Rogers,945,John Curtiss,920
+Alex Claudio,Brewers,Tony Watson,920,Trevor Richards,910,Pedro Baez,908
+Adam Cimber,Indians,Darren O'Day,966,Nick Goody,925,Andrew Miller,918
+Sergio Romo,Twins,Robert Stephenson,893,Sam Howard,885,Tyler Kinley,876
+Brent Suter,Brewers,Archie Bradley,857,Ivan Nova,839,Kyle Hendricks,837
+Cesar Valdez,Orioles,Tony Watson,751,Devin Williams,740,Phillips Valdez,735
+Tyler Rogers,Giants,Darren O'Day,945,Adam Cimber,911,Joey Gerber,887
+Will Harris,Nationals,Andre Scrubb,729,Josh Tomlin,22,Zack Godley,1
+Andre Scrubb,Astros,Will Harris,729,Josh Tomlin,14,Zack Godley,0
